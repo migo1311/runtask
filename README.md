@@ -1,5 +1,3 @@
-[![GitHub Stars](https://img.shields.io/github/stars/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification.svg?style=flat&logo=github&colorB=blue&label=stars)](https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification.svg?style=flat&logo=github&colorB=blue&label=forks)](https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/network/members)
 This Django project allows users to register with their email addresses and verifies their email through a confirmation link sent via email.
 
 ## Features
@@ -14,13 +12,10 @@ This Django project allows users to register with their email addresses and veri
 ## Result
 # Django User Registration with Email Confirmation Link Verification
 
-https://github.com/sobit-nep/Django-User-Registration-with-Email-Confirmation-Link-Verification/assets/65544518/5fa7f917-d4cb-41b6-bfa0-f0500cfadfee
+![SignIn](https://github.com/user-attachments/assets/95a642fe-ff78-4266-bdf7-dc587f49c674)
 
+![insightify](https://github.com/user-attachments/assets/e3800406-01d7-46d7-859b-5eeff08662fd)
 
-
-## Prerequisites
-
-Make sure you have the following installed:
 
 - Python (version 3.7 or higher)
 - Django (version 3.0 or higher)
