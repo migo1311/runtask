@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign In</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            font-family: Arial, sans-serif;
+        }
+        
+        .left-panel {
+            flex: 1;
+            background-color: #374785;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        
+        .logo {
+            text-align: center;
+        }
+        
+        .responsive-logo {
+            width: 30%;
+            max-width: 150px;
+            height: auto;
+        }
+        
+        @media (max-width: 768px) {
+            .responsive-logo {
+                width: 50%;
+            }
+        }
+        
+        .right-panel {
+            flex: 1;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 20px;
+        }
+        
+        .form-container {
+            width: 100%;
+            max-width: 350px;
+        }
+        
+        .form-title {
+            font-weight: bold;
+            color: #0a1a41;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .form-group input {
+            border-radius: 10px;
+            border: 1px solid #ced4da;
+            padding: 10px;
+            margin-bottom: 15px;
+        }
+        
+        .form-group input:focus {
+            border-color: #0a1a41;
+            box-shadow: none;
+        }
+        
+        .btn-primary {
+            background-color: #374785;
+            border-radius: 10px;
+            border: none;
+            padding: 10px;
+            width: 100%;
+        }
+        
+        .btn-primary:hover {
+            background-color: #374785;
+        }
+        
+        .forgot-link {
+            display: block;
+            text-align: right;
+            font-size: 0.9rem;
+            color: #6c757d;
+            margin-bottom: 15px;
+        }
+        
+        .forgot-link:hover {
+            color: #0a1a41;
+            text-decoration: none;
+        }
+        
+        .toggle-btn {
+            background-color: #ffffff;
+            border: 1px solid #374785;
+            color: #374785;
+            border-radius: 10px;
+            padding: 10px;
+            width: 100%;
+            margin-top: 10px;
+            text-align: center;
+            cursor: pointer;
+        }
+        
+        .toggle-btn:hover {
+            background-color: #374785;
+            color: #ffffff;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="left-panel">
+        <div class="logo">
+            {% load static %}
+            <img src="{% static 'images/insightify.png' %}" alt="Insightify Logo">
+        </div>
+    </div>
+
+    <div class="right-panel">
+        <div class="form-container">
+            <div id="signin-form">
+                {% for message in messages %}
+                <div class="alert alert-{{ message.tags }} alert-dismissible fade show" role="alert">
+                    <strong>Message:</strong> {{ message }}
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                {% endfor %}
+                <h3 class="form-title">SIGN IN</h3>
+                <form method="post" action="/signin" class="mb-2">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" placeholder="Enter Your Username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="pass1">Password</label>
+                        <input type="password" class="form-control" id="pass1" name="pass1" placeholder="Enter Your Password" required>
+                    </div>
+                    <a class="forgot-link">Forgot Password?</a>
+                    <button type="submit" class="btn btn-primary">Log In</button>
+                </form>
+                <div class="toggle-btn" onclick="toggleForm()">Don't have an account? Sign Up</div>
+            </div>
+
+            <div id="signup-form" style="display: none;">
+                <h3 class="form-title">SIGN UP</h3>
+                <form method="post" action="/signup" class="mb-2">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="fname">First Name</label>
+                        <input type="text" class="form-control" id="fname" name="fname" placeholder="First Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="lname">Last Name</label>
+                        <input type="text" class="form-control" id="lname" name="lname" placeholder="Last Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="pass1">Password</label>
+                        <input type="password" class="form-control" id="pass1" name="pass1" placeholder="Password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="pass2">Confirm Password</label>
+                        <input type="password" class="form-control" id="pass2" name="pass2" placeholder="Confirm Your Password" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Sign Up</button>
+                </form>
+                <div class="toggle-btn" onclick="toggleForm()">Already have an account? Sign In</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function toggleForm() {
+            const signInForm = document.getElementById('signin-form');
+            const signUpForm = document.getElementById('signup-form');
+            if (signInForm.style.display === 'none') {
+                signInForm.style.display = 'block';
+                signUpForm.style.display = 'none';
+            } else {
+                signInForm.style.display = 'none';
+                signUpForm.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+
+</html>
