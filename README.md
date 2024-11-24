@@ -1,4 +1,4 @@
-This Django project allows users to register with their email addresses and verifies their email through a confirmation link sent via email.
+Group 4 - BSCS Data Visualization Tools
 
 ## Features
 
