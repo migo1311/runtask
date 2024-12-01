@@ -12,6 +12,11 @@ from django.contrib.auth import authenticate, login, logout
 from django.shortcuts import render, redirect
 from django.contrib.auth.decorators import login_required
 from . tokens import generate_token
+from .models import CSVFile
+from .forms import CSVFileForm
+from django.http import HttpResponseRedirect
+from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 # Create your views here.
 def home(request):
     return render(request,"authentication/index.html")
@@ -125,3 +130,26 @@ def signout(request):
     logout(request)
     messages.success(request, "Logged out successfully!")
     return redirect("home")
+
+@csrf_exempt  # Temporarily disable CSRF for AJAX (handle it carefully in production)
+def upload_file(request):
+    if request.method == 'POST' and request.FILES.get('file'):
+        uploaded_file = request.FILES['file']
+        
+        # Save the uploaded file directly to the database
+        new_file = CSVFile(file=uploaded_file)
+        new_file.save()
+
+        # Fetch all the files in the database
+        files = CSVFile.objects.all()
+        file_names = [file.file.name for file in files]  # List of all file names
+
+        # Return a JSON response indicating success and the list of files
+        return JsonResponse({
+            'message': 'File uploaded successfully!',
+            'status': 'success',
+            'files': file_names  # Return the list of files
+        })
+    
+    # Return an error response if no file was uploaded
+    return JsonResponse({'message': 'No file uploaded.', 'status': 'error'}, status=400)

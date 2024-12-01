@@ -43,18 +43,76 @@
         <div class="no-files">No recent file</div>
 
         <div class="file-actions">
-            <button onclick="uploadFile()">Upload File</button>
+            <button onclick="triggerFileInput()">Upload File</button>
+            <input type="file" id="fileInput" style="display:none;" onchange="uploadFile()" accept=".csv">
             <button onclick="createProject()">Create New Project</button>
         </div>
     </div>
 
     <!-- Optional JavaScript -->
     <script>
-        function uploadFile() {
-            // Redirect or trigger file upload
-            window.location.href = '/upload';
-        }
+    function triggerFileInput() {
+        document.getElementById('fileInput').click();
+    }
 
+    // Function to upload the file via AJAX
+function uploadFile() {
+    const fileInput = document.getElementById('fileInput');
+    const file = fileInput.files[0];
+
+    if (file) {
+        const formData = new FormData();
+        formData.append('file', file);  // Append the file to the FormData object
+
+        // Send the file to the server using fetch API
+        fetch('/upload', {
+            method: 'POST',
+            headers: {
+                'X-CSRFToken': getCookie('csrftoken'), // Include CSRF token
+            },
+            body: formData,
+        })
+        .then(response => response.json())
+        .then(data => {
+            // Handle success (optional)
+            alert('File uploaded successfully!');
+            console.log(data);
+
+            if (data.status === 'success') {
+                // Update the file list in the frontend
+                const fileList = document.querySelector('.no-files ul');
+                fileList.innerHTML = '';  // Clear the current list
+
+                // Append each file to the list
+                data.files.forEach(fileName => {
+                    const li = document.createElement('li');
+                    li.textContent = fileName;  // Set file name
+                    fileList.appendChild(li);
+                });
+            }
+        })
+        .catch(error => {
+            // Handle error (optional)
+            alert('Error uploading file.');
+            console.error(error);
+        });
+    }
+}
+    // Helper function to get CSRF token from cookies
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
         function createProject() {
             // Redirect to create new project page
             window.location.href = '/create-project';

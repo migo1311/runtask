@@ -1,0 +1,1001 @@
+Student_ID,First_Name,Last_Name,Gender,Age,Year_Level,College_Name,Course,Enrollment_Status,Date_Enrolled
+S0001,Laura,Martinez,Male,20,2nd Year,CBA,BSBA Marketing Management,Enrolled,1/28/2024
+S0002,David,Johnson,Female,24,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0003,Emily,Hernandez,Non-binary,18,2nd Year,CA,BS Accountancy,Enrolled,6/13/2024
+S0004,David,Hernandez,Male,22,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0005,Emily,Miller,Male,16,1st Year,CBA,BS Tourism Management,Not Enrolled,
+S0006,Sarah,Williams,Male,18,4th Year,CBA,BSBA Financial Management,Not Enrolled,
+S0007,Katie,Brown,Female,20,1st Year,CN,BS Nursing,Enrolled,8/8/2024
+S0008,John,Brown,Female,20,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0009,Katie,Martinez,Male,23,4th Year,CED,BSE Mathematics,Not Enrolled,
+S0010,Jane,Smith,Male,17,1st Year,CED,BSE Mathematics,Enrolled,5/24/2024
+S0011,David,Brown,Female,24,1st Year,CN,BS Nursing,Enrolled,12/22/2023
+S0012,Michael,Williams,Non-binary,25,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0013,David,Hernandez,Female,24,4th Year,CASBE,BS Architecture,Enrolled,5/1/2024
+S0014,Alex,Brown,Male,23,2nd Year,CASBE,BS Architecture,Enrolled,10/7/2024
+S0015,Katie,Jones,Non-binary,23,1st Year,CISTM,BS Computer Science,Enrolled,9/24/2024
+S0016,Chris,Martinez,Female,24,1st Year,CISTM,BS Computer Science,Enrolled,11/30/2023
+S0017,David,Davis,Male,22,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0018,Chris,Davis,Male,20,2nd Year,CN,BS Nursing,Enrolled,11/27/2023
+S0019,Katie,Jones,Female,16,1st Year,CED,BPE Physical Education,Not Enrolled,
+S0020,Jane,Brown,Female,23,2nd Year,CHASS,BA Communication,Enrolled,2/4/2024
+S0021,Emily,Martinez,Female,21,1st Year,CN,BS Nursing,Not Enrolled,
+S0022,John,Smith,Non-binary,23,1st Year,CPT,BS Physical Therapy,Enrolled,6/1/2024
+S0023,John,Hernandez,Non-binary,19,3rd Year,CHASS,BS Social Work,Enrolled,10/6/2024
+S0024,Laura,Miller,Male,21,1st Year,CS,BS Biology,Enrolled,8/1/2024
+S0025,Katie,Williams,Male,24,4th Year,CS,BS Chemistry,Enrolled,3/2/2024
+S0026,Chris,Martinez,Female,18,4th Year,CPA,BPA Public Administration,Enrolled,11/30/2023
+S0027,Katie,Hernandez,Male,23,3rd Year,CN,BS Nursing,Not Enrolled,
+S0028,Alex,Hernandez,Female,19,2nd Year,CPT,BS Physical Therapy,Enrolled,2/1/2024
+S0029,Alex,Davis,Female,16,1st Year,CHASS,BA Communication,Enrolled,11/21/2023
+S0030,Laura,Brown,Female,24,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0031,Michael,Martinez,Female,17,4th Year,CASBE,BS Architecture,Enrolled,3/26/2024
+S0032,John,Johnson,Male,19,3rd Year,CISTM,BS Information Technology,Enrolled,6/11/2024
+S0033,Sarah,Martinez,Non-binary,21,2nd Year,CEng,BS Civil Engineering,Enrolled,11/17/2023
+S0034,Chris,Miller,Non-binary,25,3rd Year,CS,BS Biology,Not Enrolled,
+S0035,Jane,Johnson,Female,23,1st Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0036,Alex,Johnson,Non-binary,25,2nd Year,CS,BS Chemistry,Enrolled,9/1/2024
+S0037,Emily,Brown,Female,20,4th Year,CPA,BPA Public Administration,Enrolled,3/19/2024
+S0038,Alex,Hernandez,Female,20,2nd Year,CEng,BS Civil Engineering,Enrolled,5/2/2024
+S0039,Katie,Martinez,Male,19,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0040,Katie,Hernandez,Non-binary,17,3rd Year,CASBE,BS Architecture,Enrolled,12/12/2023
+S0041,Sarah,Miller,Female,21,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0042,Michael,Brown,Non-binary,23,2nd Year,CEng,BS Computer Engineering,Enrolled,4/11/2024
+S0043,Alex,Jones,Male,16,1st Year,CED,BSE Science,Not Enrolled,
+S0044,Chris,Miller,Female,16,1st Year,CBA,BS Hospitality Management,Enrolled,11/19/2023
+S0045,Laura,Williams,Male,21,4th Year,CED,BSE Filipino,Not Enrolled,
+S0046,Laura,Hernandez,Non-binary,19,2nd Year,CS,BS Chemistry,Not Enrolled,
+S0047,John,Smith,Male,25,2nd Year,CS,BS Biology,Not Enrolled,
+S0048,David,Brown,Female,21,1st Year,CBA,BS Real Estate Management,Not Enrolled,
+S0049,Chris,Smith,Male,21,2nd Year,CED,BSE English,Enrolled,5/10/2024
+S0050,Emily,Smith,Non-binary,19,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0051,Alex,Martinez,Non-binary,16,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0052,Michael,Williams,Male,23,3rd Year,CISTM,BS Information Technology,Enrolled,1/15/2024
+S0053,Chris,Miller,Non-binary,24,4th Year,CN,BS Nursing,Not Enrolled,
+S0054,David,Hernandez,Male,16,3rd Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0055,John,Jones,Female,22,2nd Year,CHASS,BA Communication,Enrolled,5/20/2024
+S0056,Michael,Miller,Male,16,2nd Year,CS,BS Biology,Not Enrolled,
+S0057,David,Martinez,Non-binary,20,1st Year,CED,BSE Mathematics,Enrolled,4/26/2024
+S0058,Katie,Johnson,Male,24,4th Year,CN,BS Nursing,Enrolled,1/30/2024
+S0059,Jane,Smith,Male,22,4th Year,CHASS,BA Communication,Enrolled,11/4/2024
+S0060,Chris,Williams,Female,21,1st Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0061,Jane,Williams,Female,22,3rd Year,CN,BS Nursing,Enrolled,12/27/2023
+S0062,John,Brown,Female,17,2nd Year,CEng,BS Civil Engineering,Not Enrolled,
+S0063,Michael,Brown,Non-binary,19,2nd Year,CEng,BS Computer Engineering,Enrolled,11/21/2023
+S0064,Laura,Davis,Non-binary,16,2nd Year,CN,BS Nursing,Not Enrolled,
+S0065,Laura,Davis,Non-binary,20,4th Year,CPA,BPA Public Administration,Enrolled,12/5/2023
+S0066,Alex,Hernandez,Non-binary,23,3rd Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0067,Katie,Johnson,Female,21,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0068,Jane,Miller,Male,23,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0069,Laura,Martinez,Non-binary,25,2nd Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0070,Emily,Martinez,Non-binary,17,2nd Year,CPT,BS Physical Therapy,Enrolled,5/30/2024
+S0071,Michael,Jones,Male,20,3rd Year,CBA,BS Real Estate Management,Not Enrolled,
+S0072,Chris,Garcia,Male,16,3rd Year,CBA,BSBA Financial Management,Not Enrolled,
+S0073,Chris,Martinez,Male,20,1st Year,CA,BS Accountancy,Not Enrolled,
+S0074,Michael,Jones,Non-binary,23,1st Year,CISTM,BS Computer Science,Enrolled,10/24/2024
+S0075,Michael,Williams,Non-binary,25,2nd Year,CEng,BS Computer Engineering,Not Enrolled,
+S0076,David,Hernandez,Male,22,2nd Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0077,Alex,Williams,Male,24,3rd Year,CASBE,BS Architecture,Enrolled,11/11/2023
+S0078,Alex,Johnson,Female,21,1st Year,CA,BS Accountancy,Not Enrolled,
+S0079,Sarah,Martinez,Non-binary,20,2nd Year,CBA,BS Tourism Management,Not Enrolled,
+S0080,Katie,Garcia,Female,16,4th Year,CPT,BS Physical Therapy,Enrolled,4/3/2024
+S0081,David,Williams,Non-binary,21,1st Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0082,Sarah,Williams,Non-binary,21,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0083,Laura,Garcia,Male,16,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0084,John,Davis,Non-binary,16,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0085,Laura,Miller,Female,22,3rd Year,CEng,BS Civil Engineering,Enrolled,10/10/2024
+S0086,Alex,Brown,Non-binary,16,2nd Year,CS,BS Mathematics,Enrolled,6/28/2024
+S0087,Sarah,Hernandez,Female,17,3rd Year,CA,BS Accountancy,Enrolled,3/2/2024
+S0088,Sarah,Martinez,Male,16,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0089,Alex,Jones,Female,19,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0090,David,Miller,Non-binary,24,4th Year,CN,BS Nursing,Not Enrolled,
+S0091,Sarah,Martinez,Male,18,4th Year,CA,BS Accountancy,Not Enrolled,
+S0092,Chris,Brown,Non-binary,23,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0093,Katie,Hernandez,Female,23,2nd Year,CED,BSE Social Studies,Not Enrolled,
+S0094,Emily,Smith,Male,23,1st Year,CHASS,BA Communication,Enrolled,6/11/2024
+S0095,Katie,Brown,Male,23,1st Year,CS,BS Mathematics,Enrolled,12/20/2023
+S0096,Laura,Williams,Female,16,3rd Year,CPT,BS Physical Therapy,Enrolled,1/3/2024
+S0097,Michael,Williams,Male,17,2nd Year,CN,BS Nursing,Not Enrolled,
+S0098,Michael,Williams,Non-binary,25,3rd Year,CEng,BS Manufacturing Engineering,Not Enrolled,
+S0099,Sarah,Martinez,Non-binary,18,3rd Year,CISTM,BS Information Technology,Enrolled,8/4/2024
+S0100,Sarah,Garcia,Non-binary,18,3rd Year,CS,BS Biology,Not Enrolled,
+S0101,Laura,Smith,Male,16,4th Year,CN,BS Nursing,Enrolled,5/25/2024
+S0102,Katie,Miller,Male,25,3rd Year,CN,BS Nursing,Not Enrolled,
+S0103,Sarah,Hernandez,Female,25,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0104,David,Garcia,Male,16,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0105,Chris,Davis,Male,22,4th Year,CISTM,BS Computer Science,Not Enrolled,
+S0106,Jane,Smith,Female,22,2nd Year,CS,BS Mathematics,Enrolled,11/8/2023
+S0107,Laura,Williams,Non-binary,17,1st Year,CS,BS Chemistry,Enrolled,6/26/2024
+S0108,Emily,Johnson,Male,22,1st Year,CN,BS Nursing,Not Enrolled,
+S0109,Laura,Williams,Non-binary,21,2nd Year,CPT,BS Physical Therapy,Enrolled,8/30/2024
+S0110,John,Johnson,Non-binary,25,4th Year,CEng,BS Manufacturing Engineering,Enrolled,2/15/2024
+S0111,Jane,Garcia,Male,19,4th Year,CA,BS Accountancy,Enrolled,4/22/2024
+S0112,David,Brown,Male,18,2nd Year,CHASS,BS Social Work,Not Enrolled,
+S0113,Katie,Jones,Male,25,2nd Year,CN,BS Nursing,Enrolled,7/3/2024
+S0114,Jane,Williams,Female,21,4th Year,CED,BSE Filipino,Enrolled,7/18/2024
+S0115,John,Williams,Non-binary,21,3rd Year,CPA,BPA Public Administration,Enrolled,11/21/2023
+S0116,Katie,Williams,Male,23,2nd Year,CED,BSE Mathematics,Enrolled,9/28/2024
+S0117,Alex,Smith,Non-binary,20,2nd Year,CPT,BS Physical Therapy,Enrolled,3/25/2024
+S0118,John,Smith,Non-binary,19,2nd Year,CA,BS Accountancy,Enrolled,12/8/2023
+S0119,Chris,Johnson,Non-binary,18,1st Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0120,Jane,Brown,Female,20,1st Year,CS,BS Chemistry,Enrolled,6/5/2024
+S0121,Katie,Brown,Female,19,4th Year,CA,BS Accountancy,Enrolled,3/24/2024
+S0122,Chris,Brown,Non-binary,17,2nd Year,CHASS,BM Music Performance,Not Enrolled,
+S0123,Laura,Martinez,Non-binary,20,1st Year,CBA,BSBA Marketing Management,Not Enrolled,
+S0124,Laura,Hernandez,Male,16,2nd Year,CS,BS Psychology,Enrolled,7/25/2024
+S0125,Alex,Martinez,Female,25,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0126,Sarah,Hernandez,Male,18,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0127,Sarah,Martinez,Male,16,2nd Year,CPA,BPA Public Administration,Enrolled,3/9/2024
+S0128,Laura,Johnson,Male,17,4th Year,CISTM,BS Information Technology,Not Enrolled,
+S0129,Alex,Garcia,Female,20,4th Year,CPT,BS Physical Therapy,Enrolled,9/28/2024
+S0130,Jane,Garcia,Female,23,4th Year,CASBE,BS Architecture,Enrolled,7/15/2024
+S0131,Michael,Miller,Male,23,3rd Year,CBA,BS Entrepreneurship,Enrolled,1/31/2024
+S0132,David,Smith,Male,16,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0133,Emily,Smith,Male,18,4th Year,CN,BS Nursing,Enrolled,2/3/2024
+S0134,David,Hernandez,Female,17,2nd Year,CS,BS Psychology,Enrolled,1/15/2024
+S0135,Chris,Williams,Male,19,3rd Year,CEng,BS Manufacturing Engineering,Enrolled,3/17/2024
+S0136,David,Hernandez,Non-binary,24,1st Year,CS,BS Biology,Enrolled,10/1/2024
+S0137,Jane,Williams,Male,24,4th Year,CA,BS Accountancy,Not Enrolled,
+S0138,Emily,Jones,Non-binary,25,1st Year,CISTM,BS Information Technology,Enrolled,11/25/2023
+S0139,Emily,Johnson,Non-binary,24,1st Year,CS,BS Psychology,Enrolled,5/21/2024
+S0140,Jane,Jones,Female,23,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0141,Laura,Martinez,Female,22,3rd Year,CPA,BPA Public Administration,Enrolled,2/17/2024
+S0142,Chris,Johnson,Female,25,3rd Year,CA,BS Accountancy,Enrolled,7/23/2024
+S0143,John,Davis,Non-binary,22,1st Year,CEng,BS Computer Engineering,Enrolled,2/11/2024
+S0144,Katie,Davis,Non-binary,24,1st Year,CASBE,BS Architecture,Enrolled,1/4/2024
+S0145,Katie,Smith,Female,20,3rd Year,CN,BS Nursing,Not Enrolled,
+S0146,Michael,Martinez,Male,22,1st Year,CED,BSE Mathematics,Enrolled,6/7/2024
+S0147,John,Brown,Non-binary,18,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0148,Jane,Brown,Male,17,1st Year,CN,BS Nursing,Not Enrolled,
+S0149,Laura,Johnson,Female,21,3rd Year,CASBE,BS Architecture,Enrolled,7/4/2024
+S0150,Jane,Johnson,Non-binary,21,3rd Year,CED,BSE Social Studies,Not Enrolled,
+S0151,Laura,Hernandez,Female,17,4th Year,CA,BS Accountancy,Enrolled,8/21/2024
+S0152,Sarah,Smith,Non-binary,16,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0153,David,Smith,Non-binary,16,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0154,Emily,Hernandez,Male,22,3rd Year,CA,BS Accountancy,Enrolled,2/7/2024
+S0155,Sarah,Jones,Non-binary,22,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0156,David,Garcia,Male,16,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0157,Sarah,Smith,Male,23,3rd Year,CASBE,BS Architecture,Enrolled,5/8/2024
+S0158,Laura,Jones,Male,18,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0159,John,Miller,Female,18,1st Year,CED,BSE Social Studies,Not Enrolled,
+S0160,Laura,Hernandez,Female,24,1st Year,CS,BS Psychology,Enrolled,11/25/2023
+S0161,David,Hernandez,Non-binary,17,1st Year,CHASS,BA Communication,Not Enrolled,
+S0162,Laura,Jones,Male,22,4th Year,CASBE,BS Architecture,Enrolled,4/2/2024
+S0163,Emily,Jones,Non-binary,19,2nd Year,CS,BS Chemistry,Enrolled,5/8/2024
+S0164,John,Johnson,Female,17,1st Year,CA,BS Accountancy,Not Enrolled,
+S0165,David,Martinez,Female,23,4th Year,CPA,BPA Public Administration,Enrolled,2/28/2024
+S0166,Michael,Johnson,Male,17,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0167,Jane,Garcia,Female,19,1st Year,CED,BSE Filipino,Enrolled,10/5/2024
+S0168,John,Davis,Non-binary,18,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0169,Katie,Miller,Female,18,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0170,Michael,Williams,Non-binary,20,3rd Year,CS,BS Chemistry,Enrolled,9/17/2024
+S0171,John,Williams,Non-binary,25,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0172,Laura,Miller,Non-binary,18,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0173,Michael,Miller,Non-binary,21,2nd Year,CN,BS Nursing,Enrolled,4/5/2024
+S0174,David,Brown,Male,19,2nd Year,CEng,BS Manufacturing Engineering,Not Enrolled,
+S0175,Michael,Smith,Female,25,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0176,Alex,Johnson,Female,18,1st Year,CA,BS Accountancy,Not Enrolled,
+S0177,Katie,Miller,Non-binary,22,1st Year,CED,BSE Filipino,Not Enrolled,
+S0178,Alex,Johnson,Male,24,2nd Year,CA,BS Accountancy,Enrolled,9/29/2024
+S0179,Chris,Brown,Female,25,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0180,John,Jones,Male,24,1st Year,CA,BS Accountancy,Enrolled,10/10/2024
+S0181,John,Davis,Non-binary,24,1st Year,CN,BS Nursing,Not Enrolled,
+S0182,Katie,Williams,Female,19,4th Year,CN,BS Nursing,Enrolled,2/19/2024
+S0183,Jane,Brown,Female,20,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0184,Chris,Smith,Female,16,3rd Year,CED,BSE Science,Enrolled,8/2/2024
+S0185,Michael,Miller,Male,18,4th Year,CASBE,BS Architecture,Enrolled,10/13/2024
+S0186,Chris,Williams,Female,18,2nd Year,CHASS,BS Social Work,Enrolled,2/20/2024
+S0187,Jane,Jones,Female,17,2nd Year,CS,BS Mathematics,Enrolled,4/5/2024
+S0188,Sarah,Brown,Non-binary,17,4th Year,CASBE,BS Architecture,Enrolled,10/1/2024
+S0189,Katie,Jones,Non-binary,23,2nd Year,CISTM,BS Information Technology,Enrolled,6/17/2024
+S0190,Michael,Davis,Female,19,2nd Year,CBA,BS Hospitality Management,Not Enrolled,
+S0191,Jane,Williams,Male,21,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0192,Katie,Martinez,Male,20,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0193,Michael,Hernandez,Male,20,1st Year,CN,BS Nursing,Not Enrolled,
+S0194,David,Williams,Female,23,3rd Year,CHASS,BM Music Performance,Not Enrolled,
+S0195,Emily,Garcia,Non-binary,19,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0196,Katie,Hernandez,Non-binary,18,4th Year,CN,BS Nursing,Enrolled,11/10/2023
+S0197,Emily,Martinez,Non-binary,19,1st Year,CS,BS Biology,Not Enrolled,
+S0198,Chris,Garcia,Female,22,1st Year,CED,BPE Physical Education,Not Enrolled,
+S0199,Jane,Miller,Non-binary,22,4th Year,CASBE,BS Architecture,Enrolled,7/21/2024
+S0200,Sarah,Smith,Non-binary,20,1st Year,CASBE,BS Architecture,Enrolled,3/28/2024
+S0201,Laura,Brown,Male,21,4th Year,CED,BSE English,Enrolled,8/22/2024
+S0202,Jane,Jones,Male,24,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0203,John,Jones,Male,19,4th Year,CEng,BS Manufacturing Engineering,Enrolled,1/6/2024
+S0204,John,Martinez,Non-binary,25,1st Year,CASBE,BS Architecture,Enrolled,3/23/2024
+S0205,Emily,Miller,Non-binary,19,3rd Year,CHASS,BM Music Performance,Enrolled,1/31/2024
+S0206,Katie,Jones,Non-binary,16,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0207,Katie,Jones,Female,17,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0208,Sarah,Brown,Male,20,1st Year,CEng,BS Computer Engineering,Enrolled,9/6/2024
+S0209,Alex,Williams,Male,21,3rd Year,CPT,BS Physical Therapy,Enrolled,8/14/2024
+S0210,Katie,Jones,Female,18,4th Year,CPA,BPA Public Administration,Enrolled,10/29/2024
+S0211,Jane,Miller,Male,25,3rd Year,CS,BS Biology,Not Enrolled,
+S0212,David,Williams,Female,21,2nd Year,CISTM,BS Information Technology,Enrolled,4/10/2024
+S0213,Michael,Hernandez,Female,20,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0214,Chris,Jones,Female,18,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0215,David,Johnson,Female,18,2nd Year,CPT,BS Physical Therapy,Enrolled,4/3/2024
+S0216,Emily,Smith,Non-binary,17,3rd Year,CPA,BPA Public Administration,Enrolled,2/29/2024
+S0217,Alex,Jones,Non-binary,22,1st Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0218,Alex,Miller,Non-binary,23,2nd Year,CEng,BS Civil Engineering,Enrolled,5/29/2024
+S0219,John,Smith,Male,24,1st Year,CISTM,BS Information Technology,Enrolled,11/3/2024
+S0220,David,Miller,Non-binary,18,3rd Year,CN,BS Nursing,Enrolled,8/23/2024
+S0221,Katie,Garcia,Non-binary,21,4th Year,CPT,BS Physical Therapy,Enrolled,1/19/2024
+S0222,Sarah,Martinez,Male,19,4th Year,CISTM,BS Information Technology,Enrolled,10/21/2024
+S0223,Katie,Garcia,Female,21,1st Year,CED,BSE Science,Not Enrolled,
+S0224,Michael,Smith,Non-binary,20,4th Year,CED,BPE Physical Education,Not Enrolled,
+S0225,Jane,Miller,Female,22,1st Year,CASBE,BS Architecture,Enrolled,5/17/2024
+S0226,David,Brown,Male,22,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0227,Jane,Davis,Non-binary,22,3rd Year,CA,BS Accountancy,Enrolled,10/22/2024
+S0228,Alex,Johnson,Non-binary,22,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0229,Jane,Garcia,Female,21,3rd Year,CS,BS Psychology,Enrolled,2/6/2024
+S0230,Sarah,Garcia,Non-binary,17,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0231,Emily,Garcia,Non-binary,20,4th Year,CPT,BS Physical Therapy,Enrolled,9/4/2024
+S0232,Laura,Williams,Female,17,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0233,Alex,Davis,Non-binary,22,3rd Year,CASBE,BS Architecture,Enrolled,9/17/2024
+S0234,Michael,Hernandez,Male,21,4th Year,CEng,BS Electrical Engineering,Enrolled,7/19/2024
+S0235,Emily,Smith,Non-binary,24,2nd Year,CED,BPE Physical Education,Enrolled,4/17/2024
+S0236,Chris,Smith,Female,18,2nd Year,CPT,BS Physical Therapy,Enrolled,3/25/2024
+S0237,Emily,Davis,Male,24,3rd Year,CS,BS Biology,Enrolled,5/24/2024
+S0238,Sarah,Garcia,Female,20,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0239,Michael,Williams,Non-binary,19,1st Year,CISTM,BS Information Technology,Enrolled,5/12/2024
+S0240,Alex,Davis,Female,19,4th Year,CA,BS Accountancy,Enrolled,8/8/2024
+S0241,John,Hernandez,Non-binary,17,1st Year,CHASS,BS Social Work,Enrolled,11/12/2023
+S0242,Laura,Martinez,Non-binary,18,2nd Year,CN,BS Nursing,Not Enrolled,
+S0243,Emily,Davis,Female,25,1st Year,CPT,BS Physical Therapy,Enrolled,6/29/2024
+S0244,Emily,Miller,Non-binary,25,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0245,Sarah,Garcia,Female,19,3rd Year,CED,BSE Filipino,Enrolled,4/8/2024
+S0246,Michael,Smith,Female,22,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0247,Alex,Johnson,Non-binary,17,2nd Year,CBA,BSBA Marketing Management,Not Enrolled,
+S0248,David,Miller,Non-binary,22,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0249,David,Hernandez,Non-binary,20,2nd Year,CBA,BSBA Business Economics,Enrolled,1/16/2024
+S0250,Michael,Davis,Male,24,4th Year,CS,BS Psychology,Enrolled,10/17/2024
+S0251,David,Brown,Male,22,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0252,Emily,Davis,Male,19,1st Year,CPT,BS Physical Therapy,Enrolled,9/14/2024
+S0253,Laura,Garcia,Female,19,3rd Year,CED,BSE Mathematics,Not Enrolled,
+S0254,John,Smith,Female,25,4th Year,CEng,BS Civil Engineering,Enrolled,5/13/2024
+S0255,Laura,Jones,Female,24,1st Year,CISTM,BS Computer Science,Enrolled,3/17/2024
+S0256,Katie,Hernandez,Female,22,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0257,Alex,Hernandez,Male,24,4th Year,CEng,BS Computer Engineering,Not Enrolled,
+S0258,Katie,Miller,Female,16,4th Year,CHASS,BM Music Performance,Enrolled,4/26/2024
+S0259,Jane,Davis,Male,22,2nd Year,CS,BS Psychology,Not Enrolled,
+S0260,Chris,Martinez,Male,21,2nd Year,CISTM,BS Computer Science,Enrolled,5/24/2024
+S0261,Emily,Jones,Female,25,2nd Year,CS,BS Psychology,Not Enrolled,
+S0262,Jane,Hernandez,Male,21,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0263,John,Garcia,Male,20,3rd Year,CED,BSE English,Enrolled,3/3/2024
+S0264,Katie,Johnson,Male,22,2nd Year,CS,BS Psychology,Enrolled,8/29/2024
+S0265,Chris,Smith,Female,17,3rd Year,CISTM,BS Computer Science,Enrolled,2/8/2024
+S0266,Katie,Johnson,Male,23,2nd Year,CED,BSE Social Studies,Enrolled,2/20/2024
+S0267,Emily,Davis,Non-binary,24,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0268,Emily,Jones,Male,18,2nd Year,CISTM,BS Computer Science,Not Enrolled,
+S0269,John,Garcia,Male,18,3rd Year,CS,BS Mathematics,Enrolled,1/4/2024
+S0270,Katie,Brown,Female,25,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0271,Jane,Miller,Male,25,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0272,Laura,Johnson,Female,18,2nd Year,CEng,BS Mechanical Engineering,Enrolled,3/31/2024
+S0273,Sarah,Martinez,Female,23,2nd Year,CPT,BS Physical Therapy,Enrolled,2/1/2024
+S0274,Jane,Hernandez,Female,20,3rd Year,CISTM,BS Computer Science,Enrolled,3/22/2024
+S0275,John,Miller,Female,18,1st Year,CPT,BS Physical Therapy,Enrolled,10/18/2024
+S0276,Sarah,Williams,Male,22,1st Year,CN,BS Nursing,Enrolled,2/24/2024
+S0277,Jane,Brown,Female,16,3rd Year,CN,BS Nursing,Enrolled,1/23/2024
+S0278,Chris,Smith,Non-binary,23,1st Year,CEng,BS Electrical Engineering,Enrolled,3/1/2024
+S0279,Chris,Jones,Non-binary,16,4th Year,CN,BS Nursing,Enrolled,9/12/2024
+S0280,Chris,Garcia,Female,18,4th Year,CPT,BS Physical Therapy,Enrolled,1/18/2024
+S0281,Chris,Miller,Male,18,3rd Year,CN,BS Nursing,Not Enrolled,
+S0282,Michael,Jones,Male,20,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0283,Laura,Hernandez,Male,22,4th Year,CED,BSE Science,Not Enrolled,
+S0284,Alex,Martinez,Female,24,2nd Year,CA,BS Accountancy,Enrolled,1/13/2024
+S0285,Laura,Davis,Male,23,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0286,Jane,Martinez,Male,20,1st Year,CN,BS Nursing,Enrolled,4/3/2024
+S0287,David,Jones,Male,23,1st Year,CHASS,BS Social Work,Enrolled,5/6/2024
+S0288,Sarah,Jones,Non-binary,21,2nd Year,CN,BS Nursing,Not Enrolled,
+S0289,Sarah,Brown,Female,19,4th Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0290,Laura,Garcia,Female,22,1st Year,CS,BS Biology,Not Enrolled,
+S0291,Chris,Garcia,Non-binary,17,3rd Year,CASBE,BS Architecture,Enrolled,5/9/2024
+S0292,John,Williams,Female,24,2nd Year,CHASS,BM Music Performance,Enrolled,3/18/2024
+S0293,David,Miller,Non-binary,24,1st Year,CS,BS Chemistry,Not Enrolled,
+S0294,David,Smith,Male,22,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0295,Michael,Brown,Non-binary,25,4th Year,CPA,BPA Public Administration,Enrolled,12/10/2023
+S0296,Alex,Martinez,Non-binary,17,4th Year,CASBE,BS Architecture,Enrolled,5/5/2024
+S0297,Chris,Garcia,Female,25,4th Year,CED,BSE Science,Enrolled,1/11/2024
+S0298,Alex,Jones,Female,18,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0299,Emily,Williams,Non-binary,22,4th Year,CED,BSE Science,Enrolled,1/29/2024
+S0300,Katie,Garcia,Female,25,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0301,John,Williams,Female,16,1st Year,CPT,BS Physical Therapy,Enrolled,3/15/2024
+S0302,Alex,Davis,Female,25,1st Year,CEng,BS Electronics Engineering,Enrolled,1/23/2024
+S0303,Chris,Garcia,Male,21,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0304,Alex,Smith,Non-binary,21,4th Year,CED,BSE Social Studies,Enrolled,7/4/2024
+S0305,Sarah,Davis,Female,22,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0306,Sarah,Brown,Male,20,4th Year,CISTM,BS Computer Science,Enrolled,11/4/2024
+S0307,Emily,Smith,Male,18,1st Year,CASBE,BS Architecture,Enrolled,8/7/2024
+S0308,Katie,Garcia,Non-binary,24,3rd Year,CASBE,BS Architecture,Enrolled,8/19/2024
+S0309,John,Johnson,Male,23,1st Year,CA,BS Accountancy,Not Enrolled,
+S0310,Alex,Williams,Male,23,3rd Year,CPT,BS Physical Therapy,Enrolled,9/13/2024
+S0311,John,Williams,Male,17,3rd Year,CBA,BS Tourism Management,Not Enrolled,
+S0312,David,Garcia,Female,21,4th Year,CHASS,BM Music Performance,Enrolled,4/11/2024
+S0313,Michael,Smith,Female,20,4th Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0314,David,Williams,Male,17,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0315,John,Garcia,Non-binary,21,4th Year,CEng,BS Computer Engineering,Enrolled,10/16/2024
+S0316,Laura,Davis,Male,20,4th Year,CISTM,BS Information Technology,Not Enrolled,
+S0317,Laura,Smith,Female,24,2nd Year,CBA,BS Tourism Management,Enrolled,5/17/2024
+S0318,Laura,Brown,Male,16,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0319,Michael,Garcia,Female,23,4th Year,CED,BSE English,Enrolled,12/28/2023
+S0320,Katie,Miller,Male,19,2nd Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0321,Jane,Garcia,Female,20,4th Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0322,Laura,Garcia,Non-binary,20,2nd Year,CS,BS Psychology,Not Enrolled,
+S0323,Katie,Jones,Male,20,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0324,Sarah,Brown,Non-binary,20,2nd Year,CEng,BS Chemical Engineering,Enrolled,6/2/2024
+S0325,Chris,Hernandez,Male,22,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0326,Alex,Williams,Male,16,2nd Year,CS,BS Mathematics,Enrolled,9/20/2024
+S0327,Chris,Garcia,Female,19,4th Year,CHASS,BM Music Performance,Enrolled,11/2/2024
+S0328,Michael,Garcia,Female,18,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0329,Laura,Johnson,Female,24,3rd Year,CEng,BS Mechanical Engineering,Enrolled,11/26/2023
+S0330,David,Miller,Male,22,1st Year,CEng,BS Computer Engineering,Not Enrolled,
+S0331,Emily,Brown,Female,18,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0332,David,Miller,Non-binary,21,4th Year,CBA,BSBA Business Economics,Enrolled,12/7/2023
+S0333,John,Smith,Female,20,1st Year,CEng,BS Manufacturing Engineering,Enrolled,7/13/2024
+S0334,Laura,Johnson,Non-binary,25,1st Year,CA,BS Accountancy,Not Enrolled,
+S0335,John,Hernandez,Male,19,4th Year,CHASS,BA Communication,Not Enrolled,
+S0336,Laura,Williams,Female,20,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0337,Chris,Miller,Male,21,1st Year,CS,BS Chemistry,Not Enrolled,
+S0338,Katie,Hernandez,Female,22,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0339,Katie,Johnson,Non-binary,23,2nd Year,CS,BS Chemistry,Not Enrolled,
+S0340,Chris,Williams,Female,20,3rd Year,CN,BS Nursing,Enrolled,1/15/2024
+S0341,Katie,Jones,Female,22,2nd Year,CED,BSE Mathematics,Enrolled,8/28/2024
+S0342,Sarah,Johnson,Female,22,4th Year,CED,BSE Social Studies,Not Enrolled,
+S0343,Sarah,Hernandez,Female,24,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0344,John,Miller,Non-binary,17,4th Year,CED,BSE Social Studies,Not Enrolled,
+S0345,John,Miller,Male,20,1st Year,CN,BS Nursing,Not Enrolled,
+S0346,Sarah,Smith,Female,16,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0347,Sarah,Martinez,Male,22,4th Year,CISTM,BS Computer Science,Enrolled,7/29/2024
+S0348,Sarah,Miller,Female,25,4th Year,CBA,BS Entrepreneurship,Enrolled,7/3/2024
+S0349,Alex,Williams,Female,23,4th Year,CS,BS Psychology,Enrolled,4/25/2024
+S0350,Sarah,Martinez,Male,17,1st Year,CED,BSE English,Enrolled,1/14/2024
+S0351,Jane,Jones,Non-binary,21,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0352,Jane,Johnson,Male,22,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0353,Chris,Hernandez,Female,19,1st Year,CEng,BS Mechanical Engineering,Enrolled,12/29/2023
+S0354,Laura,Davis,Male,24,3rd Year,CISTM,BS Information Technology,Enrolled,2/1/2024
+S0355,Laura,Williams,Non-binary,21,3rd Year,CN,BS Nursing,Not Enrolled,
+S0356,Michael,Miller,Female,16,3rd Year,CA,BS Accountancy,Enrolled,8/22/2024
+S0357,Michael,Miller,Non-binary,19,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0358,John,Brown,Male,20,3rd Year,CED,BSE Science,Not Enrolled,
+S0359,Emily,Garcia,Male,21,3rd Year,CASBE,BS Architecture,Enrolled,5/22/2024
+S0360,David,Jones,Male,17,4th Year,CHASS,BA Communication,Enrolled,8/23/2024
+S0361,Alex,Williams,Male,21,1st Year,CBA,BSBA Business Economics,Enrolled,9/9/2024
+S0362,Michael,Garcia,Male,20,2nd Year,CPA,BPA Public Administration,Enrolled,2/23/2024
+S0363,Michael,Brown,Non-binary,23,1st Year,CASBE,BS Architecture,Enrolled,7/28/2024
+S0364,Sarah,Johnson,Male,20,2nd Year,CS,BS Chemistry,Not Enrolled,
+S0365,Emily,Miller,Female,19,1st Year,CPT,BS Physical Therapy,Enrolled,1/19/2024
+S0366,David,Garcia,Non-binary,22,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0367,Michael,Martinez,Female,16,3rd Year,CPA,BPA Public Administration,Enrolled,11/7/2023
+S0368,Alex,Smith,Male,19,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0369,David,Miller,Female,16,1st Year,CPT,BS Physical Therapy,Enrolled,6/14/2024
+S0370,Sarah,Jones,Male,21,4th Year,CASBE,BS Architecture,Enrolled,5/6/2024
+S0371,Sarah,Davis,Male,21,2nd Year,CED,BSE Social Studies,Enrolled,8/14/2024
+S0372,Sarah,Brown,Non-binary,21,1st Year,CPT,BS Physical Therapy,Enrolled,10/5/2024
+S0373,Chris,Miller,Non-binary,17,1st Year,CBA,BS Real Estate Management,Enrolled,5/19/2024
+S0374,David,Johnson,Female,17,4th Year,CA,BS Accountancy,Not Enrolled,
+S0375,Sarah,Jones,Male,20,3rd Year,CEng,BS Mechanical Engineering,Enrolled,11/2/2024
+S0376,Chris,Garcia,Non-binary,19,1st Year,CPA,BPA Public Administration,Enrolled,7/12/2024
+S0377,Chris,Johnson,Female,25,4th Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0378,Michael,Smith,Male,16,3rd Year,CS,BS Mathematics,Not Enrolled,
+S0379,David,Garcia,Female,19,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0380,Chris,Garcia,Male,25,2nd Year,CPT,BS Physical Therapy,Enrolled,1/14/2024
+S0381,Katie,Miller,Male,22,2nd Year,CHASS,BM Music Performance,Not Enrolled,
+S0382,Chris,Jones,Non-binary,16,3rd Year,CN,BS Nursing,Not Enrolled,
+S0383,Katie,Williams,Non-binary,25,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0384,Chris,Johnson,Female,23,4th Year,CN,BS Nursing,Not Enrolled,
+S0385,Alex,Jones,Female,22,3rd Year,CN,BS Nursing,Enrolled,8/31/2024
+S0386,Alex,Williams,Male,23,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0387,David,Johnson,Male,23,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0388,Katie,Williams,Male,19,1st Year,CHASS,BS Social Work,Not Enrolled,
+S0389,Katie,Miller,Male,19,3rd Year,CA,BS Accountancy,Enrolled,12/2/2023
+S0390,Sarah,Garcia,Non-binary,23,2nd Year,CS,BS Chemistry,Enrolled,10/2/2024
+S0391,Sarah,Johnson,Female,16,4th Year,CPA,BPA Public Administration,Enrolled,4/26/2024
+S0392,David,Hernandez,Male,19,2nd Year,CEng,BS Chemical Engineering,Enrolled,5/19/2024
+S0393,Michael,Smith,Male,23,4th Year,CED,BPE Physical Education,Not Enrolled,
+S0394,John,Smith,Male,21,2nd Year,CISTM,BS Computer Science,Not Enrolled,
+S0395,David,Brown,Male,18,2nd Year,CPT,BS Physical Therapy,Enrolled,2/1/2024
+S0396,Emily,Johnson,Male,16,2nd Year,CN,BS Nursing,Not Enrolled,
+S0397,Katie,Williams,Female,21,2nd Year,CED,BSE Filipino,Enrolled,9/26/2024
+S0398,John,Williams,Female,21,3rd Year,CASBE,BS Architecture,Enrolled,10/24/2024
+S0399,Jane,Davis,Male,19,3rd Year,CBA,BS Real Estate Management,Enrolled,7/28/2024
+S0400,Jane,Hernandez,Male,25,4th Year,CPA,BPA Public Administration,Enrolled,2/26/2024
+S0401,Emily,Jones,Non-binary,21,4th Year,CEng,BS Manufacturing Engineering,Not Enrolled,
+S0402,Michael,Garcia,Female,20,2nd Year,CN,BS Nursing,Not Enrolled,
+S0403,Chris,Garcia,Male,25,2nd Year,CEng,BS Mechanical Engineering,Enrolled,8/29/2024
+S0404,Katie,Johnson,Non-binary,21,1st Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0405,John,Miller,Female,23,3rd Year,CPT,BS Physical Therapy,Enrolled,2/12/2024
+S0406,Chris,Miller,Non-binary,18,2nd Year,CN,BS Nursing,Enrolled,6/16/2024
+S0407,Michael,Johnson,Female,21,2nd Year,CBA,BS Entrepreneurship,Enrolled,10/2/2024
+S0408,Chris,Davis,Female,24,1st Year,CN,BS Nursing,Not Enrolled,
+S0409,Michael,Garcia,Non-binary,25,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0410,David,Jones,Male,24,2nd Year,CHASS,BM Music Performance,Enrolled,1/29/2024
+S0411,Katie,Smith,Female,21,2nd Year,CN,BS Nursing,Enrolled,9/24/2024
+S0412,David,Garcia,Male,19,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0413,Laura,Williams,Male,20,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0414,Jane,Johnson,Male,24,1st Year,CBA,BS Tourism Management,Enrolled,11/1/2024
+S0415,Katie,Davis,Non-binary,17,4th Year,CPT,BS Physical Therapy,Enrolled,1/9/2024
+S0416,Alex,Johnson,Female,25,2nd Year,CS,BS Biology,Enrolled,1/19/2024
+S0417,Emily,Williams,Female,18,2nd Year,CPA,BPA Public Administration,Enrolled,9/9/2024
+S0418,Sarah,Martinez,Non-binary,21,3rd Year,CN,BS Nursing,Not Enrolled,
+S0419,Michael,Jones,Male,16,4th Year,CED,BPE Physical Education,Enrolled,6/9/2024
+S0420,Jane,Brown,Non-binary,20,2nd Year,CASBE,BS Architecture,Enrolled,1/26/2024
+S0421,Jane,Smith,Male,24,2nd Year,CEng,BS Manufacturing Engineering,Enrolled,12/16/2023
+S0422,Sarah,Williams,Female,20,3rd Year,CED,BSE Social Studies,Not Enrolled,
+S0423,Katie,Brown,Female,20,1st Year,CISTM,BS Information Technology,Not Enrolled,
+S0424,Jane,Smith,Female,23,3rd Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0425,Emily,Brown,Non-binary,24,1st Year,CISTM,BS Information Technology,Not Enrolled,
+S0426,Jane,Johnson,Male,19,4th Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0427,Michael,Davis,Non-binary,24,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0428,Chris,Davis,Non-binary,21,1st Year,CPT,BS Physical Therapy,Enrolled,11/18/2023
+S0429,Jane,Jones,Female,18,4th Year,CASBE,BS Architecture,Enrolled,10/16/2024
+S0430,Sarah,Garcia,Male,17,3rd Year,CS,BS Mathematics,Enrolled,6/25/2024
+S0431,Jane,Hernandez,Female,18,2nd Year,CEng,BS Mechanical Engineering,Enrolled,2/24/2024
+S0432,Laura,Smith,Male,20,2nd Year,CA,BS Accountancy,Enrolled,10/29/2024
+S0433,Sarah,Jones,Female,16,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0434,Alex,Garcia,Non-binary,21,2nd Year,CPA,BPA Public Administration,Enrolled,4/28/2024
+S0435,Katie,Smith,Male,20,3rd Year,CISTM,BS Computer Science,Enrolled,10/28/2024
+S0436,John,Garcia,Male,24,2nd Year,CN,BS Nursing,Enrolled,7/23/2024
+S0437,Laura,Johnson,Male,16,1st Year,CEng,BS Electrical Engineering,Enrolled,6/1/2024
+S0438,Chris,Smith,Female,17,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0439,Emily,Johnson,Female,20,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0440,Katie,Hernandez,Female,19,2nd Year,CS,BS Biology,Enrolled,3/30/2024
+S0441,Katie,Garcia,Male,17,4th Year,CPT,BS Physical Therapy,Enrolled,6/17/2024
+S0442,Alex,Garcia,Male,16,1st Year,CS,BS Mathematics,Enrolled,12/22/2023
+S0443,David,Davis,Male,22,4th Year,CBA,BS Real Estate Management,Not Enrolled,
+S0444,Laura,Jones,Female,21,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0445,Emily,Brown,Female,17,3rd Year,CEng,BS Civil Engineering,Enrolled,11/14/2023
+S0446,John,Johnson,Female,18,3rd Year,CPA,BPA Public Administration,Enrolled,8/18/2024
+S0447,Jane,Miller,Non-binary,18,3rd Year,CS,BS Psychology,Enrolled,2/7/2024
+S0448,Laura,Smith,Male,18,2nd Year,CED,BPE Physical Education,Enrolled,11/17/2023
+S0449,David,Jones,Non-binary,18,2nd Year,CPT,BS Physical Therapy,Enrolled,7/14/2024
+S0450,Katie,Williams,Non-binary,24,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0451,David,Garcia,Non-binary,24,2nd Year,CEng,BS Civil Engineering,Not Enrolled,
+S0452,Jane,Johnson,Female,24,1st Year,CA,BS Accountancy,Not Enrolled,
+S0453,Sarah,Jones,Female,19,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0454,Emily,Jones,Non-binary,24,2nd Year,CS,BS Biology,Enrolled,12/17/2023
+S0455,Michael,Jones,Non-binary,24,3rd Year,CISTM,BS Computer Science,Enrolled,4/22/2024
+S0456,John,Williams,Male,17,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0457,David,Johnson,Male,19,1st Year,CHASS,BA Communication,Enrolled,6/15/2024
+S0458,Jane,Miller,Non-binary,21,2nd Year,CPA,BPA Public Administration,Enrolled,12/26/2023
+S0459,Alex,Martinez,Non-binary,25,4th Year,CISTM,BS Computer Science,Not Enrolled,
+S0460,Michael,Martinez,Female,19,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0461,Chris,Johnson,Female,21,1st Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0462,Michael,Smith,Non-binary,18,3rd Year,CPA,BPA Public Administration,Enrolled,9/17/2024
+S0463,John,Martinez,Male,20,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0464,Jane,Brown,Male,22,3rd Year,CASBE,BS Architecture,Enrolled,8/28/2024
+S0465,Laura,Smith,Non-binary,21,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0466,Jane,Johnson,Non-binary,16,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0467,Chris,Martinez,Male,21,2nd Year,CA,BS Accountancy,Enrolled,10/15/2024
+S0468,Chris,Johnson,Non-binary,23,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0469,Emily,Martinez,Female,21,1st Year,CN,BS Nursing,Enrolled,2/18/2024
+S0470,Laura,Garcia,Non-binary,22,1st Year,CISTM,BS Computer Science,Enrolled,12/23/2023
+S0471,David,Garcia,Non-binary,18,1st Year,CISTM,BS Computer Science,Enrolled,12/11/2023
+S0472,Michael,Garcia,Non-binary,23,1st Year,CED,BSE Science,Not Enrolled,
+S0473,Jane,Jones,Male,18,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0474,David,Davis,Female,22,2nd Year,CED,BPE Physical Education,Enrolled,2/12/2024
+S0475,Jane,Brown,Non-binary,24,3rd Year,CHASS,BM Music Performance,Not Enrolled,
+S0476,Sarah,Brown,Non-binary,24,1st Year,CISTM,BS Information Technology,Enrolled,12/18/2023
+S0477,Sarah,Brown,Non-binary,20,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0478,Chris,Jones,Non-binary,16,3rd Year,CS,BS Chemistry,Enrolled,10/14/2024
+S0479,David,Hernandez,Male,23,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0480,David,Williams,Non-binary,17,1st Year,CS,BS Chemistry,Not Enrolled,
+S0481,Emily,Williams,Non-binary,18,3rd Year,CISTM,BS Computer Science,Enrolled,5/9/2024
+S0482,Katie,Jones,Male,23,4th Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0483,Katie,Williams,Non-binary,24,3rd Year,CS,BS Mathematics,Enrolled,12/14/2023
+S0484,John,Davis,Male,20,1st Year,CED,BSE Mathematics,Enrolled,2/16/2024
+S0485,John,Miller,Female,16,2nd Year,CPT,BS Physical Therapy,Enrolled,4/4/2024
+S0486,David,Brown,Female,24,4th Year,CASBE,BS Architecture,Enrolled,5/12/2024
+S0487,Michael,Hernandez,Non-binary,16,4th Year,CBA,BS Hospitality Management,Enrolled,8/5/2024
+S0488,Laura,Garcia,Male,23,4th Year,CN,BS Nursing,Enrolled,7/10/2024
+S0489,Alex,Williams,Female,21,2nd Year,CBA,BSBA Marketing Management,Enrolled,7/17/2024
+S0490,David,Johnson,Female,20,4th Year,CEng,BS Civil Engineering,Not Enrolled,
+S0491,John,Brown,Non-binary,23,4th Year,CA,BS Accountancy,Enrolled,6/24/2024
+S0492,Jane,Smith,Female,16,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0493,Chris,Smith,Female,18,4th Year,CPT,BS Physical Therapy,Enrolled,3/15/2024
+S0494,Alex,Miller,Male,19,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0495,Jane,Johnson,Non-binary,24,4th Year,CHASS,BM Music Performance,Enrolled,7/18/2024
+S0496,Michael,Jones,Female,23,1st Year,CASBE,BS Architecture,Enrolled,4/23/2024
+S0497,Alex,Brown,Male,16,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0498,Laura,Martinez,Male,21,1st Year,CPA,BPA Public Administration,Enrolled,2/10/2024
+S0499,Chris,Johnson,Female,25,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0500,Sarah,Brown,Female,21,3rd Year,CA,BS Accountancy,Enrolled,1/29/2024
+S0501,Jane,Johnson,Non-binary,25,2nd Year,CA,BS Accountancy,Enrolled,3/28/2024
+S0502,John,Brown,Female,19,1st Year,CPA,BPA Public Administration,Enrolled,12/31/2023
+S0503,Sarah,Miller,Female,25,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0504,Jane,Miller,Female,20,4th Year,CPT,BS Physical Therapy,Enrolled,9/12/2024
+S0505,David,Johnson,Non-binary,16,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0506,Chris,Jones,Female,24,4th Year,CHASS,BM Music Performance,Enrolled,4/4/2024
+S0507,Laura,Martinez,Non-binary,20,4th Year,CS,BS Mathematics,Enrolled,11/11/2023
+S0508,Katie,Miller,Female,17,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0509,Alex,Johnson,Female,18,2nd Year,CN,BS Nursing,Not Enrolled,
+S0510,John,Garcia,Non-binary,20,4th Year,CN,BS Nursing,Not Enrolled,
+S0511,Emily,Garcia,Non-binary,23,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0512,Sarah,Hernandez,Male,22,1st Year,CN,BS Nursing,Not Enrolled,
+S0513,David,Miller,Non-binary,17,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0514,Katie,Johnson,Female,16,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0515,Emily,Smith,Male,22,4th Year,CED,BPE Physical Education,Not Enrolled,
+S0516,Chris,Smith,Female,16,3rd Year,CS,BS Mathematics,Enrolled,12/29/2023
+S0517,Sarah,Martinez,Non-binary,23,1st Year,CS,BS Psychology,Not Enrolled,
+S0518,John,Davis,Non-binary,16,3rd Year,CN,BS Nursing,Not Enrolled,
+S0519,Jane,Garcia,Non-binary,23,4th Year,CASBE,BS Architecture,Enrolled,9/17/2024
+S0520,Sarah,Johnson,Male,21,1st Year,CA,BS Accountancy,Enrolled,9/10/2024
+S0521,Jane,Miller,Non-binary,22,4th Year,CHASS,BA Communication,Not Enrolled,
+S0522,Alex,Garcia,Female,24,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0523,Emily,Smith,Non-binary,24,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0524,Katie,Miller,Male,23,3rd Year,CHASS,BS Social Work,Not Enrolled,
+S0525,Emily,Brown,Male,19,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0526,John,Miller,Non-binary,17,1st Year,CN,BS Nursing,Not Enrolled,
+S0527,Alex,Williams,Male,17,4th Year,CS,BS Biology,Enrolled,6/22/2024
+S0528,Katie,Hernandez,Male,23,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0529,Michael,Garcia,Non-binary,25,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0530,Alex,Williams,Male,17,4th Year,CA,BS Accountancy,Enrolled,11/30/2023
+S0531,David,Brown,Female,16,2nd Year,CN,BS Nursing,Enrolled,2/13/2024
+S0532,Katie,Jones,Non-binary,24,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0533,Jane,Miller,Female,19,4th Year,CA,BS Accountancy,Not Enrolled,
+S0534,Katie,Williams,Female,23,4th Year,CED,BSE Social Studies,Enrolled,11/11/2023
+S0535,Katie,Hernandez,Male,17,2nd Year,CS,BS Psychology,Not Enrolled,
+S0536,Michael,Martinez,Male,18,1st Year,CPA,BPA Public Administration,Enrolled,8/5/2024
+S0537,Jane,Smith,Non-binary,22,1st Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0538,Katie,Smith,Male,25,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0539,Katie,Davis,Female,16,1st Year,CS,BS Chemistry,Not Enrolled,
+S0540,Emily,Brown,Male,21,4th Year,CED,BSE English,Enrolled,6/21/2024
+S0541,David,Smith,Female,16,2nd Year,CASBE,BS Architecture,Enrolled,2/1/2024
+S0542,Laura,Garcia,Female,25,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0543,Katie,Garcia,Non-binary,20,2nd Year,CBA,BS Tourism Management,Enrolled,1/18/2024
+S0544,Michael,Garcia,Male,23,2nd Year,CED,BSE English,Not Enrolled,
+S0545,David,Smith,Male,23,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0546,Sarah,Davis,Non-binary,20,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0547,John,Williams,Male,23,4th Year,CPT,BS Physical Therapy,Enrolled,7/29/2024
+S0548,Emily,Smith,Non-binary,20,2nd Year,CASBE,BS Architecture,Enrolled,6/4/2024
+S0549,David,Davis,Male,22,4th Year,CED,BSE Science,Enrolled,11/4/2024
+S0550,Laura,Miller,Female,19,2nd Year,CPA,BPA Public Administration,Enrolled,9/8/2024
+S0551,David,Hernandez,Female,22,1st Year,CBA,BS Real Estate Management,Enrolled,12/18/2023
+S0552,Chris,Davis,Non-binary,17,1st Year,CED,BSE English,Not Enrolled,
+S0553,Emily,Johnson,Non-binary,25,4th Year,CISTM,BS Computer Science,Not Enrolled,
+S0554,Laura,Brown,Female,24,4th Year,CA,BS Accountancy,Enrolled,3/6/2024
+S0555,Emily,Jones,Female,20,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0556,Laura,Davis,Male,19,1st Year,CASBE,BS Architecture,Enrolled,6/21/2024
+S0557,Michael,Johnson,Male,23,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0558,Emily,Martinez,Male,22,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0559,Katie,Williams,Female,22,2nd Year,CEng,BS Mechanical Engineering,Enrolled,4/1/2024
+S0560,David,Williams,Non-binary,24,4th Year,CPA,BPA Public Administration,Enrolled,8/22/2024
+S0561,Laura,Johnson,Female,24,4th Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0562,John,Johnson,Male,21,4th Year,CISTM,BS Information Technology,Not Enrolled,
+S0563,Laura,Davis,Male,16,4th Year,CN,BS Nursing,Not Enrolled,
+S0564,Michael,Jones,Male,24,4th Year,CS,BS Mathematics,Enrolled,5/27/2024
+S0565,Emily,Johnson,Male,21,1st Year,CED,BSE Filipino,Enrolled,9/29/2024
+S0566,Alex,Garcia,Male,16,2nd Year,CBA,BSBA Financial Management,Not Enrolled,
+S0567,Chris,Johnson,Non-binary,20,1st Year,CS,BS Psychology,Enrolled,2/8/2024
+S0568,Alex,Smith,Female,21,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0569,Michael,Martinez,Male,23,4th Year,CHASS,BA Communication,Not Enrolled,
+S0570,Michael,Smith,Male,20,2nd Year,CS,BS Psychology,Enrolled,9/9/2024
+S0571,Laura,Miller,Male,17,3rd Year,CS,BS Chemistry,Enrolled,1/16/2024
+S0572,Michael,Garcia,Non-binary,23,3rd Year,CPA,BPA Public Administration,Enrolled,6/27/2024
+S0573,Laura,Hernandez,Male,21,2nd Year,CBA,BSBA Financial Management,Enrolled,5/17/2024
+S0574,John,Davis,Male,20,1st Year,CPA,BPA Public Administration,Enrolled,8/24/2024
+S0575,Alex,Brown,Male,22,4th Year,CPA,BPA Public Administration,Enrolled,12/17/2023
+S0576,Katie,Williams,Non-binary,25,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0577,Laura,Davis,Male,17,1st Year,CED,BSE Mathematics,Enrolled,7/1/2024
+S0578,Emily,Jones,Female,21,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0579,Michael,Hernandez,Female,16,4th Year,CISTM,BS Computer Science,Enrolled,6/15/2024
+S0580,Sarah,Hernandez,Female,19,3rd Year,CN,BS Nursing,Not Enrolled,
+S0581,Alex,Davis,Non-binary,18,3rd Year,CA,BS Accountancy,Enrolled,1/26/2024
+S0582,Michael,Johnson,Non-binary,25,4th Year,CASBE,BS Architecture,Enrolled,3/17/2024
+S0583,Alex,Smith,Male,25,1st Year,CS,BS Biology,Enrolled,1/27/2024
+S0584,Laura,Jones,Female,18,4th Year,CBA,BSBA Financial Management,Not Enrolled,
+S0585,Chris,Garcia,Male,25,2nd Year,CHASS,BA Communication,Enrolled,6/4/2024
+S0586,Katie,Garcia,Non-binary,18,3rd Year,CPT,BS Physical Therapy,Enrolled,8/26/2024
+S0587,David,Smith,Non-binary,23,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0588,Sarah,Hernandez,Female,22,3rd Year,CED,BSE Science,Not Enrolled,
+S0589,Jane,Johnson,Male,20,3rd Year,CN,BS Nursing,Not Enrolled,
+S0590,Emily,Brown,Non-binary,24,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0591,Emily,Smith,Non-binary,20,2nd Year,CS,BS Mathematics,Not Enrolled,
+S0592,Jane,Davis,Non-binary,21,4th Year,CISTM,BS Information Technology,Not Enrolled,
+S0593,Laura,Hernandez,Non-binary,20,4th Year,CA,BS Accountancy,Enrolled,11/27/2023
+S0594,Chris,Jones,Male,22,4th Year,CPT,BS Physical Therapy,Enrolled,12/30/2023
+S0595,Emily,Hernandez,Non-binary,20,4th Year,CED,BSE English,Not Enrolled,
+S0596,Alex,Smith,Female,20,3rd Year,CHASS,BM Music Performance,Enrolled,3/24/2024
+S0597,David,Hernandez,Female,20,4th Year,CASBE,BS Architecture,Enrolled,8/7/2024
+S0598,Michael,Garcia,Male,16,1st Year,CN,BS Nursing,Not Enrolled,
+S0599,Emily,Miller,Non-binary,20,2nd Year,CA,BS Accountancy,Enrolled,12/17/2023
+S0600,Alex,Davis,Male,18,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0601,Alex,Martinez,Female,18,3rd Year,CASBE,BS Architecture,Enrolled,10/25/2024
+S0602,Emily,Davis,Female,18,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0603,Emily,Hernandez,Female,25,3rd Year,CA,BS Accountancy,Enrolled,10/27/2024
+S0604,Michael,Miller,Non-binary,21,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0605,Jane,Garcia,Female,20,4th Year,CISTM,BS Computer Science,Enrolled,3/4/2024
+S0606,Emily,Brown,Non-binary,23,1st Year,CHASS,BM Music Performance,Enrolled,6/19/2024
+S0607,Jane,Martinez,Male,16,1st Year,CS,BS Mathematics,Enrolled,10/11/2024
+S0608,Alex,Hernandez,Female,18,2nd Year,CPT,BS Physical Therapy,Enrolled,11/18/2023
+S0609,Michael,Garcia,Male,25,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0610,John,Johnson,Male,24,2nd Year,CED,BSE Social Studies,Not Enrolled,
+S0611,Katie,Hernandez,Female,22,3rd Year,CASBE,BS Architecture,Enrolled,5/30/2024
+S0612,Sarah,Davis,Non-binary,16,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0613,Alex,Jones,Female,20,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0614,Alex,Miller,Non-binary,21,1st Year,CISTM,BS Information Technology,Not Enrolled,
+S0615,David,Miller,Female,17,2nd Year,CHASS,BS Social Work,Not Enrolled,
+S0616,John,Miller,Non-binary,23,3rd Year,CED,BSE Social Studies,Enrolled,2/28/2024
+S0617,Katie,Hernandez,Female,19,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0618,David,Johnson,Male,16,1st Year,CISTM,BS Information Technology,Enrolled,9/4/2024
+S0619,Alex,Martinez,Male,24,3rd Year,CED,BSE Science,Not Enrolled,
+S0620,Chris,Brown,Female,23,2nd Year,CPA,BPA Public Administration,Enrolled,1/17/2024
+S0621,Michael,Brown,Female,22,1st Year,CEng,BS Electronics Engineering,Enrolled,1/11/2024
+S0622,Sarah,Davis,Non-binary,25,3rd Year,CBA,BSBA Business Economics,Not Enrolled,
+S0623,John,Jones,Male,24,2nd Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0624,Jane,Davis,Female,20,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0625,Alex,Miller,Female,25,3rd Year,CA,BS Accountancy,Enrolled,10/29/2024
+S0626,Chris,Hernandez,Male,23,1st Year,CA,BS Accountancy,Not Enrolled,
+S0627,Katie,Garcia,Non-binary,16,2nd Year,CS,BS Biology,Enrolled,11/9/2023
+S0628,John,Johnson,Male,20,4th Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0629,Chris,Davis,Female,23,2nd Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0630,Laura,Garcia,Male,24,4th Year,CS,BS Mathematics,Enrolled,4/29/2024
+S0631,John,Williams,Female,23,4th Year,CHASS,BA Communication,Enrolled,6/15/2024
+S0632,Emily,Martinez,Female,25,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0633,Sarah,Garcia,Non-binary,25,2nd Year,CEng,BS Civil Engineering,Enrolled,9/4/2024
+S0634,Sarah,Jones,Female,17,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0635,Michael,Martinez,Female,21,3rd Year,CBA,BSBA Financial Management,Not Enrolled,
+S0636,Laura,Martinez,Male,22,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0637,Jane,Miller,Male,22,4th Year,CISTM,BS Information Technology,Enrolled,12/9/2023
+S0638,David,Williams,Female,18,2nd Year,CED,BPE Physical Education,Enrolled,9/19/2024
+S0639,Katie,Miller,Male,24,4th Year,CISTM,BS Computer Science,Enrolled,2/17/2024
+S0640,Chris,Garcia,Male,21,4th Year,CN,BS Nursing,Enrolled,7/4/2024
+S0641,Michael,Brown,Male,24,4th Year,CPA,BPA Public Administration,Enrolled,1/11/2024
+S0642,David,Johnson,Male,16,2nd Year,CPA,BPA Public Administration,Enrolled,9/21/2024
+S0643,Michael,Johnson,Non-binary,20,3rd Year,CPT,BS Physical Therapy,Enrolled,8/23/2024
+S0644,John,Brown,Non-binary,17,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0645,David,Martinez,Female,17,3rd Year,CEng,BS Computer Engineering,Enrolled,8/8/2024
+S0646,Katie,Williams,Male,18,2nd Year,CBA,BSBA Marketing Management,Enrolled,4/21/2024
+S0647,Katie,Smith,Non-binary,19,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0648,Chris,Brown,Female,20,4th Year,CN,BS Nursing,Enrolled,5/23/2024
+S0649,Laura,Brown,Female,24,2nd Year,CN,BS Nursing,Enrolled,2/12/2024
+S0650,Jane,Martinez,Female,21,2nd Year,CEng,BS Civil Engineering,Enrolled,5/17/2024
+S0651,Alex,Hernandez,Non-binary,23,1st Year,CBA,BSBA Business Economics,Enrolled,11/10/2023
+S0652,Jane,Hernandez,Female,21,4th Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0653,Katie,Garcia,Female,24,4th Year,CBA,BS Hospitality Management,Not Enrolled,
+S0654,Alex,Garcia,Non-binary,21,4th Year,CBA,BS Hospitality Management,Enrolled,4/7/2024
+S0655,Katie,Davis,Female,25,3rd Year,CA,BS Accountancy,Enrolled,1/25/2024
+S0656,Michael,Brown,Male,16,1st Year,CS,BS Mathematics,Enrolled,11/25/2023
+S0657,David,Davis,Female,19,2nd Year,CS,BS Psychology,Not Enrolled,
+S0658,John,Williams,Male,22,1st Year,CISTM,BS Information Technology,Enrolled,5/6/2024
+S0659,Emily,Miller,Female,24,2nd Year,CA,BS Accountancy,Enrolled,5/4/2024
+S0660,Chris,Johnson,Non-binary,23,4th Year,CA,BS Accountancy,Not Enrolled,
+S0661,Chris,Smith,Male,20,2nd Year,CBA,BSBA Financial Management,Enrolled,9/13/2024
+S0662,Katie,Brown,Non-binary,23,2nd Year,CBA,BS Real Estate Management,Enrolled,10/5/2024
+S0663,Michael,Garcia,Non-binary,18,2nd Year,CBA,BSBA Business Economics,Enrolled,1/22/2024
+S0664,Jane,Brown,Male,18,4th Year,CS,BS Biology,Enrolled,6/5/2024
+S0665,Michael,Hernandez,Non-binary,22,2nd Year,CN,BS Nursing,Enrolled,10/2/2024
+S0666,David,Davis,Male,16,1st Year,CS,BS Biology,Not Enrolled,
+S0667,Michael,Garcia,Female,18,1st Year,CEng,BS Manufacturing Engineering,Not Enrolled,
+S0668,Michael,Jones,Female,16,1st Year,CHASS,BA Communication,Not Enrolled,
+S0669,John,Smith,Non-binary,20,4th Year,CASBE,BS Architecture,Enrolled,6/10/2024
+S0670,Chris,Williams,Male,21,2nd Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0671,Jane,Williams,Female,21,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0672,David,Smith,Female,23,1st Year,CISTM,BS Information Technology,Enrolled,4/20/2024
+S0673,Emily,Miller,Male,24,3rd Year,CISTM,BS Information Technology,Enrolled,2/13/2024
+S0674,Jane,Brown,Female,23,2nd Year,CISTM,BS Computer Science,Not Enrolled,
+S0675,Chris,Hernandez,Non-binary,16,2nd Year,CASBE,BS Architecture,Enrolled,2/6/2024
+S0676,David,Hernandez,Male,22,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0677,Sarah,Brown,Male,16,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0678,Laura,Smith,Non-binary,19,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0679,Emily,Johnson,Female,25,2nd Year,CS,BS Biology,Enrolled,10/10/2024
+S0680,Michael,Smith,Non-binary,19,3rd Year,CN,BS Nursing,Enrolled,1/14/2024
+S0681,John,Miller,Non-binary,24,3rd Year,CA,BS Accountancy,Enrolled,8/7/2024
+S0682,Chris,Martinez,Non-binary,18,2nd Year,CA,BS Accountancy,Enrolled,12/26/2023
+S0683,Laura,Hernandez,Female,19,1st Year,CPA,BPA Public Administration,Enrolled,10/7/2024
+S0684,Emily,Jones,Non-binary,16,4th Year,CN,BS Nursing,Not Enrolled,
+S0685,David,Davis,Male,17,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0686,Chris,Johnson,Male,21,3rd Year,CEng,BS Computer Engineering,Not Enrolled,
+S0687,Alex,Hernandez,Female,23,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0688,David,Williams,Female,20,4th Year,CISTM,BS Computer Science,Not Enrolled,
+S0689,Jane,Johnson,Non-binary,19,1st Year,CPA,BPA Public Administration,Enrolled,2/28/2024
+S0690,David,Johnson,Male,20,4th Year,CN,BS Nursing,Not Enrolled,
+S0691,David,Jones,Non-binary,24,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0692,David,Johnson,Non-binary,18,2nd Year,CN,BS Nursing,Not Enrolled,
+S0693,John,Brown,Male,25,3rd Year,CN,BS Nursing,Not Enrolled,
+S0694,John,Brown,Male,20,2nd Year,CS,BS Psychology,Not Enrolled,
+S0695,Emily,Miller,Male,20,4th Year,CBA,BS Tourism Management,Enrolled,2/18/2024
+S0696,Michael,Hernandez,Non-binary,16,1st Year,CED,BPE Physical Education,Not Enrolled,
+S0697,Sarah,Brown,Female,23,4th Year,CA,BS Accountancy,Not Enrolled,
+S0698,Emily,Jones,Non-binary,18,2nd Year,CBA,BS Tourism Management,Not Enrolled,
+S0699,Sarah,Johnson,Non-binary,23,3rd Year,CHASS,BM Music Performance,Not Enrolled,
+S0700,Jane,Williams,Female,21,1st Year,CED,BSE English,Not Enrolled,
+S0701,Alex,Smith,Female,21,3rd Year,CISTM,BS Computer Science,Enrolled,10/21/2024
+S0702,Katie,Martinez,Non-binary,17,2nd Year,CBA,BS Tourism Management,Enrolled,1/6/2024
+S0703,Chris,Brown,Male,18,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0704,John,Garcia,Female,20,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0705,Michael,Miller,Male,20,1st Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0706,Michael,Smith,Non-binary,17,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0707,Jane,Garcia,Non-binary,21,3rd Year,CED,BSE Filipino,Not Enrolled,
+S0708,Sarah,Garcia,Female,24,3rd Year,CPT,BS Physical Therapy,Enrolled,8/25/2024
+S0709,Chris,Smith,Female,20,4th Year,CISTM,BS Information Technology,Enrolled,4/18/2024
+S0710,Emily,Williams,Male,24,3rd Year,CPA,BPA Public Administration,Enrolled,3/15/2024
+S0711,Jane,Hernandez,Non-binary,25,2nd Year,CISTM,BS Computer Science,Not Enrolled,
+S0712,Katie,Johnson,Non-binary,21,3rd Year,CBA,BSBA Business Economics,Enrolled,5/22/2024
+S0713,Emily,Garcia,Non-binary,20,4th Year,CBA,BSBA Marketing Management,Enrolled,9/26/2024
+S0714,Chris,Smith,Non-binary,23,3rd Year,CS,BS Mathematics,Enrolled,5/25/2024
+S0715,Chris,Miller,Female,17,3rd Year,CED,BSE English,Not Enrolled,
+S0716,Sarah,Davis,Male,21,2nd Year,CS,BS Biology,Not Enrolled,
+S0717,Jane,Hernandez,Male,23,1st Year,CBA,BS Tourism Management,Enrolled,3/21/2024
+S0718,Jane,Williams,Male,21,4th Year,CASBE,BS Architecture,Enrolled,2/6/2024
+S0719,Katie,Williams,Male,25,3rd Year,CBA,BS Real Estate Management,Enrolled,3/19/2024
+S0720,Emily,Miller,Non-binary,23,3rd Year,CASBE,BS Architecture,Enrolled,6/1/2024
+S0721,Katie,Davis,Non-binary,24,1st Year,CHASS,BA Communication,Enrolled,2/6/2024
+S0722,Alex,Garcia,Female,25,1st Year,CA,BS Accountancy,Enrolled,4/3/2024
+S0723,Laura,Johnson,Non-binary,18,2nd Year,CEng,BS Civil Engineering,Not Enrolled,
+S0724,Michael,Garcia,Male,19,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0725,Jane,Williams,Non-binary,22,2nd Year,CED,BSE English,Enrolled,3/4/2024
+S0726,Sarah,Hernandez,Non-binary,19,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0727,John,Brown,Non-binary,21,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0728,Chris,Johnson,Male,16,1st Year,CED,BSE Mathematics,Enrolled,9/1/2024
+S0729,Jane,Smith,Non-binary,25,3rd Year,CS,BS Biology,Enrolled,10/28/2024
+S0730,Emily,Smith,Non-binary,16,2nd Year,CN,BS Nursing,Enrolled,7/21/2024
+S0731,Chris,Smith,Female,16,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0732,David,Miller,Male,21,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0733,Katie,Johnson,Non-binary,22,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0734,Alex,Hernandez,Female,18,4th Year,CN,BS Nursing,Enrolled,4/25/2024
+S0735,Sarah,Hernandez,Male,19,1st Year,CPT,BS Physical Therapy,Enrolled,5/1/2024
+S0736,Chris,Johnson,Male,16,1st Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0737,John,Jones,Non-binary,20,4th Year,CISTM,BS Computer Science,Not Enrolled,
+S0738,David,Garcia,Female,16,3rd Year,CS,BS Mathematics,Not Enrolled,
+S0739,Emily,Davis,Male,17,3rd Year,CS,BS Psychology,Not Enrolled,
+S0740,John,Hernandez,Non-binary,20,1st Year,CEng,BS Civil Engineering,Not Enrolled,
+S0741,Laura,Garcia,Female,22,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0742,Emily,Brown,Female,25,1st Year,CED,BSE Filipino,Enrolled,9/12/2024
+S0743,Laura,Jones,Male,25,4th Year,CHASS,BA Communication,Not Enrolled,
+S0744,Katie,Johnson,Male,18,1st Year,CED,BSE Social Studies,Enrolled,1/28/2024
+S0745,John,Garcia,Male,17,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0746,Chris,Martinez,Male,21,1st Year,CN,BS Nursing,Not Enrolled,
+S0747,Emily,Johnson,Non-binary,17,1st Year,CED,BPE Physical Education,Enrolled,5/13/2024
+S0748,Laura,Williams,Male,23,4th Year,CEng,BS Civil Engineering,Not Enrolled,
+S0749,Jane,Williams,Non-binary,21,3rd Year,CHASS,BM Music Performance,Not Enrolled,
+S0750,Michael,Williams,Female,16,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0751,Alex,Brown,Female,17,1st Year,CISTM,BS Information Technology,Enrolled,6/13/2024
+S0752,Laura,Miller,Male,22,4th Year,CISTM,BS Information Technology,Not Enrolled,
+S0753,Chris,Williams,Male,18,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0754,John,Johnson,Female,16,3rd Year,CN,BS Nursing,Enrolled,6/14/2024
+S0755,Emily,Garcia,Female,19,3rd Year,CHASS,BS Social Work,Enrolled,11/8/2023
+S0756,Alex,Martinez,Male,17,2nd Year,CA,BS Accountancy,Enrolled,7/19/2024
+S0757,Sarah,Williams,Male,16,1st Year,CA,BS Accountancy,Not Enrolled,
+S0758,Chris,Davis,Female,24,4th Year,CA,BS Accountancy,Not Enrolled,
+S0759,Alex,Smith,Non-binary,18,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0760,Michael,Johnson,Non-binary,21,4th Year,CA,BS Accountancy,Not Enrolled,
+S0761,Emily,Williams,Female,16,2nd Year,CEng,BS Civil Engineering,Enrolled,3/3/2024
+S0762,David,Garcia,Female,18,1st Year,CHASS,BM Music Performance,Enrolled,6/9/2024
+S0763,Michael,Davis,Female,21,2nd Year,CHASS,BM Music Performance,Not Enrolled,
+S0764,Laura,Johnson,Non-binary,17,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0765,David,Hernandez,Male,22,3rd Year,CA,BS Accountancy,Enrolled,1/19/2024
+S0766,Sarah,Davis,Female,19,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0767,Sarah,Martinez,Male,24,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0768,Chris,Garcia,Male,21,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0769,Michael,Garcia,Female,25,4th Year,CS,BS Psychology,Not Enrolled,
+S0770,Michael,Miller,Female,17,4th Year,CPT,BS Physical Therapy,Enrolled,6/3/2024
+S0771,Katie,Garcia,Non-binary,22,2nd Year,CASBE,BS Architecture,Enrolled,11/6/2023
+S0772,Chris,Williams,Female,18,4th Year,CED,BSE Science,Not Enrolled,
+S0773,Jane,Garcia,Male,23,4th Year,CA,BS Accountancy,Enrolled,6/4/2024
+S0774,Jane,Hernandez,Non-binary,16,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0775,Michael,Brown,Male,17,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0776,Katie,Jones,Non-binary,22,2nd Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0777,Katie,Smith,Non-binary,25,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0778,Sarah,Jones,Male,20,3rd Year,CS,BS Psychology,Not Enrolled,
+S0779,Alex,Johnson,Male,23,2nd Year,CS,BS Biology,Enrolled,10/16/2024
+S0780,David,Smith,Female,18,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0781,Jane,Jones,Non-binary,18,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0782,Chris,Martinez,Non-binary,16,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0783,John,Brown,Female,24,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0784,Laura,Smith,Non-binary,18,2nd Year,CASBE,BS Architecture,Enrolled,2/11/2024
+S0785,Michael,Hernandez,Non-binary,25,4th Year,CBA,BS Entrepreneurship,Enrolled,10/27/2024
+S0786,David,Johnson,Male,16,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0787,Emily,Brown,Non-binary,18,2nd Year,CS,BS Biology,Not Enrolled,
+S0788,Katie,Garcia,Female,16,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0789,David,Brown,Female,20,3rd Year,CN,BS Nursing,Not Enrolled,
+S0790,Katie,Brown,Non-binary,23,1st Year,CISTM,BS Information Technology,Enrolled,9/25/2024
+S0791,Alex,Davis,Non-binary,18,4th Year,CN,BS Nursing,Not Enrolled,
+S0792,Sarah,Johnson,Male,22,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0793,Michael,Williams,Non-binary,21,1st Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0794,John,Davis,Non-binary,16,1st Year,CPA,BPA Public Administration,Enrolled,9/16/2024
+S0795,Emily,Smith,Male,17,2nd Year,CEng,BS Electronics Engineering,Enrolled,5/18/2024
+S0796,John,Hernandez,Male,20,1st Year,CEng,BS Manufacturing Engineering,Enrolled,4/5/2024
+S0797,Jane,Miller,Female,22,4th Year,CA,BS Accountancy,Enrolled,12/18/2023
+S0798,John,Miller,Female,24,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0799,John,Brown,Non-binary,19,3rd Year,CBA,BSBA Financial Management,Enrolled,1/29/2024
+S0800,Alex,Johnson,Female,23,1st Year,CISTM,BS Information Technology,Enrolled,4/1/2024
+S0801,Michael,Hernandez,Non-binary,21,1st Year,CN,BS Nursing,Not Enrolled,
+S0802,Sarah,Jones,Female,16,1st Year,CED,BSE Filipino,Enrolled,8/15/2024
+S0803,David,Brown,Female,23,1st Year,CISTM,BS Computer Science,Enrolled,2/7/2024
+S0804,Katie,Johnson,Male,18,1st Year,CN,BS Nursing,Not Enrolled,
+S0805,Michael,Smith,Male,18,3rd Year,CED,BSE Mathematics,Enrolled,12/24/2023
+S0806,Alex,Johnson,Non-binary,25,1st Year,CA,BS Accountancy,Enrolled,11/10/2023
+S0807,Laura,Jones,Female,19,3rd Year,CPT,BS Physical Therapy,Enrolled,3/18/2024
+S0808,David,Hernandez,Male,21,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0809,Michael,Smith,Non-binary,19,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0810,Laura,Williams,Male,23,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0811,Sarah,Brown,Female,19,2nd Year,CBA,BS Entrepreneurship,Enrolled,3/30/2024
+S0812,Laura,Garcia,Non-binary,17,2nd Year,CA,BS Accountancy,Enrolled,9/14/2024
+S0813,Laura,Martinez,Male,18,1st Year,CISTM,BS Information Technology,Enrolled,7/11/2024
+S0814,Alex,Brown,Male,16,2nd Year,CED,BSE Science,Enrolled,1/3/2024
+S0815,Chris,Hernandez,Non-binary,21,2nd Year,CHASS,BA Communication,Enrolled,11/5/2024
+S0816,Emily,Miller,Male,16,4th Year,CPT,BS Physical Therapy,Enrolled,9/24/2024
+S0817,Laura,Johnson,Male,24,3rd Year,CISTM,BS Computer Science,Enrolled,12/9/2023
+S0818,John,Martinez,Male,18,4th Year,CISTM,BS Computer Science,Enrolled,5/5/2024
+S0819,John,Johnson,Male,21,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0820,Jane,Martinez,Non-binary,20,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0821,Laura,Smith,Female,20,3rd Year,CPA,BPA Public Administration,Enrolled,3/19/2024
+S0822,Jane,Garcia,Female,18,3rd Year,CED,BSE Filipino,Not Enrolled,
+S0823,Emily,Garcia,Non-binary,24,1st Year,CISTM,BS Information Technology,Enrolled,11/18/2023
+S0824,Jane,Brown,Female,25,2nd Year,CEng,BS Computer Engineering,Enrolled,7/22/2024
+S0825,Sarah,Johnson,Non-binary,16,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0826,Laura,Garcia,Female,22,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0827,Jane,Hernandez,Male,16,1st Year,CA,BS Accountancy,Enrolled,6/28/2024
+S0828,Sarah,Smith,Non-binary,18,1st Year,CS,BS Psychology,Not Enrolled,
+S0829,Laura,Hernandez,Male,25,3rd Year,CN,BS Nursing,Not Enrolled,
+S0830,John,Brown,Male,20,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0831,Jane,Johnson,Non-binary,23,1st Year,CHASS,BM Music Performance,Enrolled,5/7/2024
+S0832,Katie,Williams,Female,21,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0833,Alex,Williams,Non-binary,17,3rd Year,CED,BSE Filipino,Not Enrolled,
+S0834,Emily,Davis,Female,16,4th Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0835,John,Davis,Non-binary,23,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0836,David,Garcia,Female,25,2nd Year,CN,BS Nursing,Not Enrolled,
+S0837,Laura,Miller,Female,21,4th Year,CED,BSE Social Studies,Not Enrolled,
+S0838,Emily,Brown,Female,25,4th Year,CASBE,BS Architecture,Enrolled,3/4/2024
+S0839,Chris,Davis,Male,19,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0840,Michael,Williams,Male,20,3rd Year,CISTM,BS Computer Science,Not Enrolled,
+S0841,Emily,Williams,Non-binary,18,1st Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0842,Chris,Miller,Female,19,3rd Year,CASBE,BS Architecture,Enrolled,5/11/2024
+S0843,John,Miller,Non-binary,17,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0844,Katie,Smith,Non-binary,16,3rd Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0845,Laura,Garcia,Non-binary,20,1st Year,CHASS,BM Music Performance,Not Enrolled,
+S0846,Michael,Hernandez,Non-binary,19,2nd Year,CISTM,BS Computer Science,Enrolled,7/26/2024
+S0847,Chris,Smith,Non-binary,16,4th Year,CASBE,BS Architecture,Enrolled,12/19/2023
+S0848,Emily,Martinez,Non-binary,20,4th Year,CBA,BS Entrepreneurship,Enrolled,3/9/2024
+S0849,Sarah,Davis,Female,24,4th Year,CASBE,BS Architecture,Enrolled,6/11/2024
+S0850,Chris,Davis,Non-binary,16,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0851,Laura,Garcia,Male,24,1st Year,CASBE,BS Architecture,Enrolled,4/23/2024
+S0852,Emily,Miller,Male,18,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0853,Sarah,Davis,Non-binary,25,2nd Year,CEng,BS Computer Engineering,Enrolled,1/7/2024
+S0854,John,Jones,Female,21,3rd Year,CA,BS Accountancy,Enrolled,4/18/2024
+S0855,Chris,Smith,Female,20,3rd Year,CPA,BPA Public Administration,Enrolled,5/1/2024
+S0856,Emily,Miller,Non-binary,21,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0857,Sarah,Davis,Male,17,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0858,Michael,Brown,Female,23,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0859,David,Jones,Male,21,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0860,Alex,Williams,Female,24,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0861,Emily,Johnson,Female,17,4th Year,CA,BS Accountancy,Enrolled,6/16/2024
+S0862,Chris,Garcia,Non-binary,21,3rd Year,CN,BS Nursing,Not Enrolled,
+S0863,Alex,Miller,Non-binary,22,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0864,Laura,Davis,Female,16,2nd Year,CISTM,BS Information Technology,Enrolled,5/16/2024
+S0865,Emily,Garcia,Non-binary,21,1st Year,CBA,BS Entrepreneurship,Enrolled,4/21/2024
+S0866,Katie,Martinez,Male,21,2nd Year,CS,BS Mathematics,Not Enrolled,
+S0867,Emily,Hernandez,Female,22,4th Year,CHASS,BA Communication,Enrolled,3/11/2024
+S0868,Sarah,Jones,Female,17,1st Year,CA,BS Accountancy,Not Enrolled,
+S0869,Laura,Smith,Non-binary,25,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0870,John,Johnson,Female,25,4th Year,CBA,BS Hospitality Management,Enrolled,12/23/2023
+S0871,David,Smith,Male,20,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0872,Katie,Garcia,Female,19,2nd Year,CISTM,BS Information Technology,Enrolled,5/5/2024
+S0873,Jane,Johnson,Male,20,4th Year,CA,BS Accountancy,Not Enrolled,
+S0874,Sarah,Johnson,Male,23,1st Year,CA,BS Accountancy,Not Enrolled,
+S0875,John,Garcia,Female,25,3rd Year,CHASS,BM Music Performance,Not Enrolled,
+S0876,Jane,Davis,Male,24,2nd Year,CHASS,BA Communication,Not Enrolled,
+S0877,Jane,Brown,Female,25,4th Year,CPT,BS Physical Therapy,Enrolled,5/15/2024
+S0878,Chris,Garcia,Male,25,3rd Year,CPA,BPA Public Administration,Enrolled,6/20/2024
+S0879,Katie,Hernandez,Non-binary,20,2nd Year,CPA,BPA Public Administration,Enrolled,6/18/2024
+S0880,Alex,Johnson,Female,20,1st Year,CBA,BSBA Marketing Management,Not Enrolled,
+S0881,Emily,Garcia,Male,18,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0882,Sarah,Williams,Non-binary,17,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0883,Michael,Hernandez,Male,21,3rd Year,CEng,BS Mechanical Engineering,Enrolled,9/16/2024
+S0884,Laura,Williams,Male,23,3rd Year,CHASS,BA Communication,Not Enrolled,
+S0885,Alex,Smith,Female,22,3rd Year,CISTM,BS Information Technology,Not Enrolled,
+S0886,David,Martinez,Male,24,2nd Year,CPA,BPA Public Administration,Enrolled,3/16/2024
+S0887,David,Brown,Non-binary,16,2nd Year,CA,BS Accountancy,Enrolled,1/28/2024
+S0888,Jane,Williams,Female,23,1st Year,CA,BS Accountancy,Not Enrolled,
+S0889,Michael,Johnson,Male,21,3rd Year,CN,BS Nursing,Enrolled,10/31/2024
+S0890,Chris,Miller,Non-binary,18,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0891,Jane,Martinez,Male,22,4th Year,CHASS,BS Social Work,Not Enrolled,
+S0892,Katie,Williams,Male,17,3rd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0893,David,Hernandez,Male,16,3rd Year,CED,BSE Social Studies,Enrolled,9/29/2024
+S0894,Alex,Miller,Female,18,2nd Year,CED,BPE Physical Education,Not Enrolled,
+S0895,David,Garcia,Non-binary,18,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0896,Laura,Smith,Male,21,1st Year,CA,BS Accountancy,Not Enrolled,
+S0897,John,Jones,Female,25,3rd Year,CPT,BS Physical Therapy,Enrolled,11/12/2023
+S0898,Katie,Jones,Male,18,3rd Year,CPT,BS Physical Therapy,Enrolled,4/20/2024
+S0899,Sarah,Brown,Female,25,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0900,Michael,Williams,Male,18,1st Year,CBA,BS Hospitality Management,Not Enrolled,
+S0901,Jane,Davis,Male,16,3rd Year,CASBE,BS Architecture,Not Enrolled,
+S0902,Emily,Brown,Female,22,2nd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0903,Alex,Davis,Non-binary,20,2nd Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0904,John,Jones,Male,17,3rd Year,CPA,BPA Public Administration,Enrolled,7/1/2024
+S0905,Katie,Garcia,Female,19,2nd Year,CHASS,BM Music Performance,Not Enrolled,
+S0906,John,Martinez,Non-binary,17,3rd Year,CED,BSE English,Not Enrolled,
+S0907,Sarah,Brown,Non-binary,20,4th Year,CPA,BPA Public Administration,Enrolled,9/10/2024
+S0908,Alex,Miller,Female,22,2nd Year,CN,BS Nursing,Enrolled,5/17/2024
+S0909,Alex,Davis,Female,20,3rd Year,CEng,BS Computer Engineering,Not Enrolled,
+S0910,Alex,Brown,Female,20,4th Year,CN,BS Nursing,Enrolled,3/12/2024
+S0911,Chris,Garcia,Non-binary,24,1st Year,CPT,BS Physical Therapy,Enrolled,9/4/2024
+S0912,Alex,Smith,Non-binary,19,2nd Year,CPA,BPA Public Administration,Enrolled,2/26/2024
+S0913,Sarah,Miller,Female,25,2nd Year,CBA,BSBA Financial Management,Enrolled,3/10/2024
+S0914,John,Hernandez,Male,16,1st Year,CISTM,BS Computer Science,Enrolled,11/7/2023
+S0915,David,Johnson,Non-binary,17,2nd Year,CEng,BS Chemical Engineering,Not Enrolled,
+S0916,Katie,Davis,Non-binary,23,2nd Year,CPA,BPA Public Administration,Enrolled,4/7/2024
+S0917,Chris,Miller,Female,24,4th Year,CA,BS Accountancy,Enrolled,7/30/2024
+S0918,Sarah,Miller,Male,22,4th Year,CS,BS Biology,Not Enrolled,
+S0919,Alex,Brown,Male,19,2nd Year,CBA,BS Entrepreneurship,Not Enrolled,
+S0920,Laura,Miller,Female,23,1st Year,CS,BS Mathematics,Enrolled,5/28/2024
+S0921,Katie,Hernandez,Female,19,2nd Year,CS,BS Psychology,Not Enrolled,
+S0922,Katie,Brown,Female,21,2nd Year,CN,BS Nursing,Enrolled,3/5/2024
+S0923,Chris,Johnson,Non-binary,23,3rd Year,CPA,BPA Public Administration,Enrolled,3/22/2024
+S0924,Katie,Davis,Non-binary,24,2nd Year,CASBE,BS Architecture,Enrolled,1/28/2024
+S0925,David,Williams,Non-binary,17,2nd Year,CPA,BPA Public Administration,Enrolled,7/9/2024
+S0926,Chris,Brown,Male,22,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0927,Jane,Miller,Male,20,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0928,David,Garcia,Female,18,4th Year,CHASS,BS Social Work,Enrolled,12/1/2023
+S0929,Alex,Smith,Non-binary,21,4th Year,CEng,BS Civil Engineering,Enrolled,8/4/2024
+S0930,Chris,Davis,Female,21,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0931,Katie,Jones,Non-binary,24,1st Year,CS,BS Mathematics,Not Enrolled,
+S0932,John,Hernandez,Female,20,4th Year,CA,BS Accountancy,Enrolled,2/15/2024
+S0933,Michael,Martinez,Male,16,3rd Year,CS,BS Chemistry,Not Enrolled,
+S0934,Michael,Martinez,Non-binary,24,3rd Year,CHASS,BS Social Work,Not Enrolled,
+S0935,Katie,Martinez,Female,20,4th Year,CASBE,BS Architecture,Enrolled,1/10/2024
+S0936,Michael,Smith,Non-binary,17,3rd Year,CPT,BS Physical Therapy,Not Enrolled,
+S0937,Chris,Miller,Male,16,3rd Year,CHASS,BM Music Performance,Enrolled,7/7/2024
+S0938,Jane,Garcia,Female,17,3rd Year,CBA,BSBA Financial Management,Enrolled,1/25/2024
+S0939,Jane,Jones,Female,21,1st Year,CPA,BPA Public Administration,Enrolled,4/2/2024
+S0940,David,Smith,Female,19,3rd Year,CHASS,BS Social Work,Not Enrolled,
+S0941,Sarah,Jones,Female,24,4th Year,CA,BS Accountancy,Enrolled,2/19/2024
+S0942,Chris,Hernandez,Male,22,1st Year,CHASS,BA Communication,Not Enrolled,
+S0943,Michael,Johnson,Non-binary,18,3rd Year,CPT,BS Physical Therapy,Enrolled,8/10/2024
+S0944,David,Hernandez,Non-binary,22,1st Year,CS,BS Chemistry,Enrolled,2/19/2024
+S0945,Laura,Smith,Non-binary,18,1st Year,CISTM,BS Information Technology,Not Enrolled,
+S0946,David,Johnson,Non-binary,22,2nd Year,CHASS,BS Social Work,Not Enrolled,
+S0947,Emily,Smith,Female,24,1st Year,CED,BSE Filipino,Enrolled,6/9/2024
+S0948,Emily,Davis,Male,22,4th Year,CN,BS Nursing,Enrolled,12/21/2023
+S0949,Katie,Jones,Male,24,4th Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0950,Laura,Smith,Non-binary,21,1st Year,CS,BS Biology,Not Enrolled,
+S0951,David,Williams,Female,22,2nd Year,CISTM,BS Computer Science,Enrolled,3/13/2024
+S0952,Jane,Davis,Female,18,2nd Year,CED,BSE Social Studies,Not Enrolled,
+S0953,Sarah,Miller,Male,20,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0954,Laura,Miller,Female,16,4th Year,CHASS,BM Music Performance,Not Enrolled,
+S0955,Chris,Johnson,Non-binary,24,1st Year,CPA,BPA Public Administration,Not Enrolled,
+S0956,Katie,Martinez,Female,19,1st Year,CS,BS Chemistry,Enrolled,7/24/2024
+S0957,Katie,Hernandez,Female,23,1st Year,CPT,BS Physical Therapy,Enrolled,5/7/2024
+S0958,Emily,Johnson,Female,20,2nd Year,CISTM,BS Information Technology,Not Enrolled,
+S0959,Michael,Hernandez,Non-binary,20,1st Year,CED,BSE Social Studies,Not Enrolled,
+S0960,Katie,Hernandez,Non-binary,17,3rd Year,CPA,BPA Public Administration,Not Enrolled,
+S0961,Emily,Martinez,Non-binary,16,1st Year,CA,BS Accountancy,Not Enrolled,
+S0962,Laura,Johnson,Male,20,2nd Year,CASBE,BS Architecture,Not Enrolled,
+S0963,Sarah,Williams,Non-binary,18,1st Year,CBA,BSBA Financial Management,Enrolled,9/6/2024
+S0964,Jane,Davis,Female,20,4th Year,CN,BS Nursing,Not Enrolled,
+S0965,Laura,Johnson,Male,21,1st Year,CISTM,BS Computer Science,Not Enrolled,
+S0966,Jane,Garcia,Male,17,3rd Year,CBA,BSBA Business Economics,Enrolled,5/6/2024
+S0967,Michael,Williams,Non-binary,24,3rd Year,CPA,BPA Public Administration,Enrolled,3/11/2024
+S0968,Alex,Johnson,Female,19,4th Year,CBA,BSBA Marketing Management,Not Enrolled,
+S0969,Jane,Smith,Non-binary,21,4th Year,CEng,BS Electronics Engineering,Not Enrolled,
+S0970,Sarah,Johnson,Female,21,4th Year,CHASS,BA Communication,Not Enrolled,
+S0971,Katie,Hernandez,Male,22,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0972,Chris,Jones,Non-binary,17,2nd Year,CASBE,BS Architecture,Enrolled,10/17/2024
+S0973,Sarah,Miller,Non-binary,23,1st Year,CPT,BS Physical Therapy,Not Enrolled,
+S0974,Katie,Johnson,Female,24,4th Year,CPA,BPA Public Administration,Enrolled,4/1/2024
+S0975,Emily,Smith,Female,24,4th Year,CEng,BS Electrical Engineering,Not Enrolled,
+S0976,Katie,Miller,Non-binary,22,4th Year,CASBE,BS Architecture,Not Enrolled,
+S0977,Laura,Williams,Female,25,2nd Year,CEng,BS Mechanical Engineering,Not Enrolled,
+S0978,Alex,Miller,Non-binary,16,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0979,Jane,Garcia,Female,25,4th Year,CPT,BS Physical Therapy,Not Enrolled,
+S0980,Sarah,Smith,Male,20,1st Year,CASBE,BS Architecture,Enrolled,1/30/2024
+S0981,Michael,Martinez,Male,16,3rd Year,CPA,BPA Public Administration,Enrolled,7/26/2024
+S0982,Alex,Jones,Female,21,2nd Year,CHASS,BM Music Performance,Not Enrolled,
+S0983,Katie,Davis,Non-binary,23,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0984,Katie,Davis,Non-binary,24,4th Year,CASBE,BS Architecture,Enrolled,10/30/2024
+S0985,Sarah,Martinez,Female,22,2nd Year,CA,BS Accountancy,Not Enrolled,
+S0986,Katie,Smith,Non-binary,23,4th Year,CBA,BS Hospitality Management,Enrolled,12/25/2023
+S0987,Jane,Smith,Female,18,2nd Year,CS,BS Psychology,Enrolled,1/26/2024
+S0988,Alex,Smith,Non-binary,16,4th Year,CS,BS Biology,Enrolled,2/2/2024
+S0989,Emily,Martinez,Female,17,2nd Year,CBA,BSBA Business Economics,Enrolled,8/20/2024
+S0990,Sarah,Smith,Female,17,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0991,Chris,Brown,Non-binary,24,4th Year,CPA,BPA Public Administration,Enrolled,12/30/2023
+S0992,Emily,Brown,Female,22,3rd Year,CED,BSE English,Enrolled,9/18/2024
+S0993,David,Miller,Male,19,4th Year,CPA,BPA Public Administration,Not Enrolled,
+S0994,John,Brown,Female,24,2nd Year,CPA,BPA Public Administration,Not Enrolled,
+S0995,Chris,Brown,Female,19,1st Year,CASBE,BS Architecture,Not Enrolled,
+S0996,Michael,Davis,Female,16,3rd Year,CA,BS Accountancy,Not Enrolled,
+S0997,Jane,Smith,Male,17,4th Year,CISTM,BS Computer Science,Enrolled,4/28/2024
+S0998,Chris,Jones,Female,23,1st Year,CEng,BS Manufacturing Engineering,Not Enrolled,
+S0999,Chris,Hernandez,Male,23,3rd Year,CA,BS Accountancy,Not Enrolled,
+S1000,Laura,Williams,Non-binary,16,1st Year,CISTM,BS Computer Science,Enrolled,2/22/2024
