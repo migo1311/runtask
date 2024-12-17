@@ -2,7 +2,7 @@
     "builds": [{
         "src": "runtask/wsgi.py",
         "use": "@djproj/python",
-        "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
+        "config": { "maxLambdaSize": "15mb", "runtime": "python3.11" }
     }],
     "routes": [
         {
