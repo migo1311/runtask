@@ -1,13 +1,13 @@
 {
     "builds": [{
         "src": "runtask/wsgi.py",
-        "use": "@vercel/python",
+        "use": "@djproj/python",
         "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
     }],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "runtask/wsgi.py"
+            "dest": "djproj/wsgi.py"
         }
     ]
 }
