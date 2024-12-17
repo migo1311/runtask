@@ -10,4 +10,5 @@
             "dest": "djproj/wsgi.py"
         }
     ]
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
