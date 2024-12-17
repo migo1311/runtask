@@ -161,10 +161,8 @@
                             <div class="mb-3">
                                 <label for="assignUsers" class="form-label">Assign Users</label>
                                 <select class="form-select" id="assignUsers" multiple>
-                                    {% for user in task.assign_users.all %}
-                                        <option value="{{ user.username }}" {% if user.username in task.assign_users.values_list %}selected{% endif %}>
-                                            {{ user.username }}
-                                        </option>
+                                    {% for member in members %}
+                                    <option value="{{ member.user.username }}">{{ member.user.username }}</option>
                                     {% endfor %}
                                 </select>
                             </div>
